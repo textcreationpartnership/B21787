@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The law of England touching His Majesties four principal seals viz. the Great Seal, the Privy Seal, the Exchequer Seal, and the Signet : also of those grand officers to whose custody these seals are committed.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 98KB of XML-encoded text transcribed from 75 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21787</idno><idno type="EEBO-CITATION">10268433</idno>
+  <idno type="VID">204618</idno>
+  <idno type="EEBO-PROQUEST">2264180231</idno>
+  
+            <idno type="STC">Wing E917</idno>
+            <idno type="OCLC">10268433</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21787)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204618)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1382:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The law of England touching His Majesties four principal seals viz. the Great Seal, the Privy Seal, the Exchequer Seal, and the Signet : also of those grand officers to whose custody these seals are committed.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>129, [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Dan. Browne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Emblems, National --  England.</term>
+               <term type="geographic_name">Great Britain --  Seal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204618:1"/>
+            <pb facs="tcp:204618:1"/>
+            <p>THE LAW OF <hi>ENGLAND,</hi> Touching His Majesties Four Principal SEALS, <hi>viz.</hi>
+            </p>
+            <p>The <hi>Great Seal,</hi> the <hi>Privy Seal,</hi> the <hi>Ex<g ref="char:EOLhyphen"/>chequer Seal,</hi> and the <hi>Signet.</hi>
+            </p>
+            <p>Also of Those Grand Officers to whose Custody these <hi>Seals</hi> are committed.</p>
+            <q>
+               <hi>Etiam aperta monstrare plurimum prodest, quia interdum scimus, nec attendimus.</hi>
+               <bibl>Senec. lib. 4 Epist. 95.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed, and are to be sold by <hi>Dan. Browne</hi> at the <hi>Black Swan</hi> and <hi>Bible</hi> without <hi>Temple-Bar,</hi> 1696.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:204618:2"/>
+            <p>
+               <figure>
+                  <head>Collegium S. Set Indi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iduae Trinitatis in Academiâ Cantabrigiensi</head>
+                  <figDesc>coat of arms of Trinity College, Cambridge</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:204618:2"/>
+            <head>
+               <hi>Jus Sigilli:</hi> OR, THE LAW OF <hi>ENGLAND,</hi> Touching The Kings four prin<g ref="char:EOLhyphen"/>cipal Seals, <hi>viz.</hi> The <hi>Great Seale,</hi> the <hi>Pri<g ref="char:EOLhyphen"/>vie Seale,</hi> the <hi>Exche<g ref="char:EOLhyphen"/>quer Seale,</hi> and the <hi>Signet,</hi> &amp;c.</head>
+            <p>THE Law of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to severall purposes, doth take especial notice of di<g ref="char:EOLhyphen"/>vers Seales, appertaining
+<pb n="2" facs="tcp:204618:3"/> to the Kings most Excel<g ref="char:EOLhyphen"/>lent Majesty, <hi>sc.</hi> The <hi>Great Seale,</hi> the <hi>Privie Seale,</hi> the <hi>Exchequer Seale,</hi> and the <hi>Signet.</hi> Of the <hi>Great Seal</hi> are we to treat in the first place: for the Rule, or Maxime is, <hi>A principalioribus, seu digni<g ref="char:EOLhyphen"/>oribus est inchoandum.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>
+                  <hi>I.</hi> Of the Great or Broad Seal of <hi>England.</hi>
+               </head>
+               <p>THis Great Seale is in the custody of the Lord Chancellor, or Lord Keeper, and there is a spe<g ref="char:EOLhyphen"/>cial Officer in the High <note place="margin">Co. 2. Inst. 554.</note> Court of Chancery, called <hi>Sigillator,</hi> who hath the Sealing of writs, and o<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:204618:3"/> things, that passe the Great Seale.</p>
+               <p>The Chancellor of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> or the Keeper of the Great Seale of <hi>England,</hi> is a Lord by his Office, and is of the most honora<g ref="char:EOLhyphen"/>ble Privie Council, under whose hands passe all Char<g ref="char:EOLhyphen"/>ters, Commissions, and Grants of the King, cor<g ref="char:EOLhyphen"/>roborated or strengthned with the Broad Seale: without which Seale all such Instruments, by Law are of no force: And the reason is, because the King is in Intendment of Law a Corporation; and therefore passeth nothing firmely, but under the said Seale.</p>
+               <p>The Lord Keeper, by <note place="margin">5. Eliz. c. 18.</note> the statute of 5. <hi>Eliz.</hi> is
+<pb n="4" facs="tcp:204618:4"/> declared to have, according to the Common Law of this Realme, the same, and the like place, Authority, Pre<g ref="char:EOLhyphen"/>heminence, Jurisdiction, Execution of Laws, and all other Customes, Com<g ref="char:EOLhyphen"/>modities, and advantages, as hath the Lord Chancel<g ref="char:EOLhyphen"/>lor of <hi>England</hi> for the time being. And therefore it is to be observed, that where divers Statutes speak of the Chancellor, and of his Lieutenant, it must of necessity be intended of such a Lieutenant, as the Law doth allow of, and that cannot be of a Deputy, <note place="margin">Co. 4. Instit. 88.</note> for the Chancellor can<g ref="char:EOLhyphen"/>not make a Deputy; but <hi>Locum teneas</hi> is to be taken for one that hold<g ref="char:EOLhyphen"/>eth the place, or hath
+<pb n="5" facs="tcp:204618:4"/> Equal Authority of the Chancellor, &amp; that is <hi>Custos magni Sigilli:</hi> and this is a<g ref="char:EOLhyphen"/>greeable with the Judge<g ref="char:EOLhyphen"/>ment of the said Parliament in 5 <hi>Eliz.</hi> But all Questi<g ref="char:EOLhyphen"/>ons, Scruples, and doubts are now taken away by the said Act of 5 <hi>Eliz.</hi> and at this day there being but one Great Seal, there can<g ref="char:EOLhyphen"/>not be both a Lord Chan<g ref="char:EOLhyphen"/>cellor, and a Lord Keeper of the Great Seal at one time, because both these are but one office, as it is declared by the said Act.</p>
+               <p>Note, that those statutes or Acts of Parliament, which make mention of the Lord Chancellor only <note place="margin">Co. 3. Inst. f. 104, &amp; 113.</note> do extend to the Lord Keeper also, as the sta<g ref="char:EOLhyphen"/>tutes of 33 <hi>H.</hi> 6. c. 1.
+<pb n="6" facs="tcp:204618:5"/> And 28 <hi>H.</hi> 8. cap. 15.</p>
+               <p>Having shewed you, in whose Custody the Great Seale is, and that the Lord Keeper hath the same Authority, that the Lord Chancellor hath, it will not be much imperti<g ref="char:EOLhyphen"/>nent to present to the Candid Reader, the Ety<g ref="char:EOLhyphen"/>mology of the word <hi>Chan<g ref="char:EOLhyphen"/>cellor,</hi> his Antiquity, the manner how he is Crea<g ref="char:EOLhyphen"/>ted, his Qualifications, his Oath, and Duty, his Jurisdiction and Authori<g ref="char:EOLhyphen"/>ty, his Honor and Pre<g ref="char:EOLhyphen"/>cedency, his Priviledges, his Assistants, and lastly the Officers that are at<g ref="char:EOLhyphen"/>tendant on his Lordship, by virtue of the Great Seale of England.</p>
+               <div n="1" type="section">
+                  <pb n="7" facs="tcp:204618:5"/>
+                  <head>1. The Etymology of the word Chancellor.</head>
+                  <p>THe name of Chancel<g ref="char:EOLhyphen"/>lor <hi>Cassiodorus</hi> fetch<g ref="char:EOLhyphen"/>eth from <hi>Crosse Grates</hi> or <hi>Lattesses,</hi> because Chan<g ref="char:EOLhyphen"/>cellors examined matters within places severed a<g ref="char:EOLhyphen"/>part, enclosed with partiti<g ref="char:EOLhyphen"/>ons of such crosse Barres, which the Latines call <hi>Cancelli:</hi> Regard, saith he, to the Chancellor, what name you bear; it cannot be hidden, which you doe within Lattesses. For you keep your Grates lightsome, your Barres open, and your Doores transparent as Windows. Whereby it is evident, that he sate within Grates, where he was to be seen
+<pb n="8" facs="tcp:204618:6"/> on every side, and there<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f it may be though<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> he took that name. But consider<g ref="char:EOLhyphen"/>ing, it was his part (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h our <hi>Camden)</hi> to strike, and dash out with crosse Lines Lattess-like, those Letters, Commissions, Warrants, and Decrees passed against Law, and Right, or pre<g ref="char:EOLhyphen"/>judicial to the Common<g ref="char:EOLhyphen"/>wealth, which not impro<g ref="char:EOLhyphen"/>perly they termed to <hi>Can<g ref="char:EOLhyphen"/>cell,</hi> some think the name of <hi>Chancellor</hi> came from this Cancelling: and in a Glossary of latter time thus we read, <hi>A Chancel<g ref="char:EOLhyphen"/>lor is he, whose Office is to look into, and peruse the Writings, and Answers of the Emperor; to Cancell what is written amisse, and to signe that which is well.</hi>
+                  </p>
+                  <pb n="9" facs="tcp:204618:6"/>
+                  <p> Agreeable to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s are the words of Sr. <hi>Edward Cook:</hi> The Judgement, saith he, in a <hi>scire facias</hi> to repeale the Kings Let<g ref="char:EOLhyphen"/>ters patents is this, <hi>Qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d praedictae Literae patentes dicti Domini Regis revo<g ref="char:EOLhyphen"/>centur, Cancellentur, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>cuentur, adnullentur, et va<g ref="char:EOLhyphen"/>cuae, &amp; invalidae pro null</hi>
+                     <note place="margin">Co. 4 Inst. 88.</note>
+                     <hi>penitus habeantur, &amp; tene<g ref="char:EOLhyphen"/>antur; ac etiam quod Ir<g ref="char:EOLhyphen"/>rotulamentum eorundem can<g ref="char:EOLhyphen"/>celletur, cassetur, &amp; anni<g ref="char:EOLhyphen"/>hiletur &amp;c.</hi> Hereof our Chancellor of <hi>England</hi> (for foreign Chancellors, it may be, have not like Authority) is called <hi>Can<g ref="char:EOLhyphen"/>cellarius, à Cancellando,</hi> i. e. <hi>à digniori parte,</hi> being the highest point of his Juris<g ref="char:EOLhyphen"/>diction, to Cancell the
+<pb n="10" facs="tcp:204618:7"/> Kings Letters patents un<g ref="char:EOLhyphen"/>der the Great Seale, and damning the Inrolment thereof, by drawing strikes through it, like a Lattesse.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. The Antiquity of this Officer.</head>
+                  <p>BOth the British, and Saxon Kings had their Chancellors; as taking some few Examples before the Conquest; <hi>Edward the Confessor</hi> had <hi>Reinbald</hi> his Chancellor: He had also <hi>Lefricke</hi> to his Chancellor: King <hi>Edgar</hi> had <hi>Adulph:</hi> King <hi>Edred</hi> had <hi>Thurkettle:</hi> King <hi>Edmond</hi> the same: King <hi>Athelstan, Wolfine,</hi> their Chancellors &amp;c.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="11" facs="tcp:204618:7"/>
+                  <head>3. His Creation.</head>
+                  <p>THe Lord Chancellor hath no Commission by Letters patents, as all other Judges and Sheriffes have, but he receiveth only his Authority by the delivery unto him of the Great Seale of <hi>England;</hi> and other Grant, or Pa<g ref="char:EOLhyphen"/>tent for this great Office, there needs not be, for that the person, to whom this Office is committed, hath the keeping of the Great Seale in his own hands. Thus sayes one; and to the same Effect are the <note place="margin">Co. 4. Inst. 87.</note> words of <hi>Coke:</hi> He is made Lord Chancellor of <hi>Eng<g ref="char:EOLhyphen"/>land, per traditionem magni sigilli sibi per Dominum Regem,</hi> and by taking his
+<pb n="12" facs="tcp:204618:8"/> Oath. But the forme and manner of ordaining a Chancellor was in the time of King <hi>H.</hi> 2. by hanging the Great Seal of <note place="margin">Camden f. 131.</note>
+                     <hi>England</hi> about the neck of the Chancellor Elect.</p>
+                  <p>Note, some have got<g ref="char:EOLhyphen"/>ten it by Letters patents at will, and one for Term of his Life; but it was holden void, because an antient Office must be <note place="margin">Co. 4. Inst. 87.</note> granted, as it hath been accustomed.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>4. His Qualifications.</head>
+                  <p>BEsides the natural Fa<g ref="char:EOLhyphen"/>culties (says Sr. <hi>Jo. Davys)</hi> and powers of his mind, which he ought to have in great perfecti<g ref="char:EOLhyphen"/>on, he must be furnished with all Learning, that
+<pb n="13" facs="tcp:204618:8"/> hath any Relation to the publique good; <hi>Divinity, Law, Policy, Morality</hi> and especial <hi>Elequence,</hi> to im<g ref="char:EOLhyphen"/>part and communicate all the rest. He must with<g ref="char:EOLhyphen"/>all have a long, and uni<g ref="char:EOLhyphen"/>versal Experience in all the Affaires of the Com<g ref="char:EOLhyphen"/>monwealth: He must be accomplished, and abso<g ref="char:EOLhyphen"/>lute in all points of Gra<g ref="char:EOLhyphen"/>vity, Constancy, Wise<g ref="char:EOLhyphen"/>dome, Temperance, Ju<g ref="char:EOLhyphen"/>stice, Piety, Integrity, and all other vertues, fit for Magistracy, and Govern<g ref="char:EOLhyphen"/>ment; yet so as the same be seasoned, and tempered with Affability, Gentle<g ref="char:EOLhyphen"/>ness, Humanity, Courtesie, howbeit without descend<g ref="char:EOLhyphen"/>ing or diminishing him<g ref="char:EOLhyphen"/>self, but still reteining
+<pb n="14" facs="tcp:204618:9"/> his dignity, state, and ho<g ref="char:EOLhyphen"/>nor. Briefely, he must be a person of such vertue and worthiness, as his Life may be a Censure, and his Ex<g ref="char:EOLhyphen"/>ample a Mirror for all o<g ref="char:EOLhyphen"/>ther Magistrates. These are the Excellencies, and per<g ref="char:EOLhyphen"/>fections, wherewith the Chancellor must be quali<g ref="char:EOLhyphen"/>fied, and adorned. And thus qualified indeed is the Right Honorable Perso<g ref="char:EOLhyphen"/>nage, that is now Lord High Chancellor of <hi>England.</hi>
+                  </p>
+               </div>
+               <div n="5" type="section">
+                  <head>5. His Duty.</head>
+                  <p>
+                     <hi>THe Lord Chancellors Office and Duty is included in the Oath, that his Lordship taketh, up<g ref="char:EOLhyphen"/>on the delivery of the Great Seale, and this same Oath consisteth upon</hi>
+                     <pb n="15" facs="tcp:204618:9"/>
+                     <hi>six parts; He shall Swear:</hi>
+                  </p>
+                  <p n="1">1. That well and truly <note place="margin">
+                        <hi>Co.</hi> 4. <hi>Inst.</hi> 88.</note> he shall serve our Soveraign Lord the King, and his people, in the Office of Chan<g ref="char:EOLhyphen"/>cellor.</p>
+                  <p n="2">2. That he shall doe right to all manner of peo<g ref="char:EOLhyphen"/>ple, poore, and rich, af<g ref="char:EOLhyphen"/>ter the Laws, and usages of the Realme.</p>
+                  <p n="3">3. That he shall truly counsel the King, and his Counsel he shall layn, and keep.</p>
+                  <p n="4">4. That he shall not know, nor suffer the hurt, and disheriting of the King, or that the Rights of the Crowne be decreased by any means, as far as he may lett it.</p>
+                  <p n="5">5. And if he may not lett it, he shall make it
+<pb n="16" facs="tcp:204618:10"/> clearly, and expressely, to be known to the King, with his true advice, and counsel.</p>
+                  <p n="6">6. And that he shall doe, and purchase the Kings profit in all that he reasona<g ref="char:EOLhyphen"/>bly may.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>6. His Jurisdiction, Pow<g ref="char:EOLhyphen"/>er and Authority.</head>
+                  <p>THe Lord Chancellor is the chief person for matter of Justice (in Civil Causes especially) next unto our Gracious Soveraigne Lord, the Grand dispencer of the Kings B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ty, and Mercy: For whereas all other Judges in this Kingdome are tied to strict Rules of Law, and may not swerve from them, in Judgement, the Lord Chancellor hath
+<pb n="17" facs="tcp:204618:10"/> in this a more absolute Power, to moderate, and temperate the written Law, ordering all things, <hi>juxta aequum, et bonum</hi> and there<g ref="char:EOLhyphen"/>fore he is sayd in our Books, to have two Pow<g ref="char:EOLhyphen"/>ers, one Extraordinary, the other Ordinary; intimat<g ref="char:EOLhyphen"/>ing, that though by his Ordinary power in some Cases, he must observe the forme of proceeding as other ordinary Judges, yet that in his Extraordi<g ref="char:EOLhyphen"/>nary power, he is not li<g ref="char:EOLhyphen"/>mited by the Law but by Conscience, according to the Circumstances of the matter in Question. And this appeares out of the words of my Lord <hi>Coke:</hi> In the Chancery, sayes he, are two Courts, one Or<g ref="char:EOLhyphen"/>dinary,
+<pb n="18" facs="tcp:204618:11"/>
+                     <hi>Coram Domino Re<g ref="char:EOLhyphen"/>ge in Cancellariâ,</hi> wherein <note place="margin">Co. 4. Inst. f 79. 3. Inst. f. 71.</note> the Lord Chancellor pro<g ref="char:EOLhyphen"/>ceeds according to the right line of the Laws, and Statutes of the Realme, <hi>secundum Legem, et Consu<g ref="char:EOLhyphen"/>etudinem Angliae.</hi> Another Extraordinary according to the Rule of Equity, <hi>se<g ref="char:EOLhyphen"/>cundum aequum, &amp; bonum.</hi> vide 8 E. 4. 5. 9 E. 4. 15. 14 E. 4. 7. <hi>Stamf. praer. c.</hi> 20. <hi>f.</hi> 65. b. <hi>Plowdens Comment. f.</hi> 72. <hi>Hob. Rep. Martin v. Marshal, &amp; Key f.</hi> 63. Of these two Powers I shall speak more particu<g ref="char:EOLhyphen"/>larly, as followeth:</p>
+                  <p n="1">1. The Lord Chancel<g ref="char:EOLhyphen"/>lor by his Ordinary power may hold plea of <hi>Scire facias,</hi> to repeale the Kings Letters Patents,
+<pb n="19" facs="tcp:204618:11"/> under the Great Seal, be<g ref="char:EOLhyphen"/>ing alwayes inrolled in the Court of Chancery, which said Writ of <hi>Scire facias,</hi> to repeale, or cancell Let<g ref="char:EOLhyphen"/>ters Patents, doth lye in this Ordinary Course of Justice in 3 Cases, <hi>sc.</hi>
+                  </p>
+                  <p rend="indent">First, when the King by his Letters Patents doth grant by several Letters Patents, one and the same thing to several persons, the former Patentee shall have a <hi>Scire facias,</hi> to repeale the second Patent.</p>
+                  <p rend="indent">Secondly, when the King granteth any thing, that is grantable, upon a false suggest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>on, the King by his prerogative <hi>Jure regio,</hi>
+                     <pb n="20" facs="tcp:204618:12"/> may have a <hi>Scire fa<g ref="char:EOLhyphen"/>cias,</hi> to repeale his own graunt.</p>
+                  <p rend="indent">Thirdly, when the King doth graunt any thing, which by Law he can<g ref="char:EOLhyphen"/>not graunt, he <hi>Jure Regio</hi> (for advance<g ref="char:EOLhyphen"/>ment of Justice, and Right) may have a <hi>Scire facias,</hi> to repeal his own Letters Pa<g ref="char:EOLhyphen"/>tents.</p>
+                  <p>The Lord Chancellor hath likewise power to hold plea of Petitions, <hi>Monstrans de Dr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>its,</hi> Tra<g ref="char:EOLhyphen"/>verses of Offices, partiti<g ref="char:EOLhyphen"/>ons in Chancery, of <hi>Scire facias</hi> upon Recognizances in this Court, writs of <hi>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>dita</hi>
+                     <note place="margin">Co. 4. Inst. 79, &amp; 80.</note>
+                     <hi>Querela,</hi> and <hi>Scire facias</hi> in the nature of an <hi>Audita Querela,</hi> to avoyd
+<pb n="21" facs="tcp:204618:12"/> Executions in this Court; Dowments in Chancery, the writ <hi>de Dote assignan<g ref="char:EOLhyphen"/>da</hi> upon Offices found, Ex<g ref="char:EOLhyphen"/>ecution upon the Statute staple, or Recognizance, in nature of a Statute sta<g ref="char:EOLhyphen"/>ple upon the Act of 23 H. 8. but the Execution upon a Statute merchant is retur<g ref="char:EOLhyphen"/>nable either into the Kings Bench or into the Com<g ref="char:EOLhyphen"/>mon Pleas, and all perso<g ref="char:EOLhyphen"/>nal Actions by or against any Officer, or Minister of the Court of Chancery, in respect of their Service or Attendance there. Thus much of the Lord Chancel<g ref="char:EOLhyphen"/>lors Ordinary power, pro<g ref="char:EOLhyphen"/>ceeding <hi>secundum Legem, &amp; consuetudinem Angliae.</hi>
+                  </p>
+                  <p n="2">2. The Lord Chancel<g ref="char:EOLhyphen"/>lor by vertue of his Ex<g ref="char:EOLhyphen"/>traordinary
+<pb n="22" facs="tcp:204618:13"/> power, that is absolute, and unlimited <note place="margin">Hobarts Reports Martin V. Marshall &amp; Key.</note> (though out of Discre<g ref="char:EOLhyphen"/>tion his Lordship doth en<g ref="char:EOLhyphen"/>tertaine some formes, which he may justly leave in special Cases) bindeth and looseth the proceed<g ref="char:EOLhyphen"/>ings of Law, and decideth Causes, by the Rules of his own Conscience; He be<g ref="char:EOLhyphen"/>ing sole Judge both in the Court of Equity, and in the Court concerning the Common Law, but in Ca<g ref="char:EOLhyphen"/>ses of weight or difficulty he doth assist himself with <note place="margin">Co. 4. Inst. f. 84.</note> some of the Judges of the Realme, and no greater exception can be taken hereunto than in case of the Lord Steward of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> being sole Judge in tryal of the Nobility, who
+<pb n="23" facs="tcp:204618:13"/> also is assisted with some of the Judges.</p>
+                  <p>By vertue of this extra<g ref="char:EOLhyphen"/>ordinary power his Lord<g ref="char:EOLhyphen"/>ship judges according to his Conscience of all Co<g ref="char:EOLhyphen"/>vins, Frauds, and De<g ref="char:EOLhyphen"/>ceipts, of Accidents, Brea<g ref="char:EOLhyphen"/>ches of Trust and Confi<g ref="char:EOLhyphen"/>dence, of Defects of Re<g ref="char:EOLhyphen"/>medy at Law, of Incertain<g ref="char:EOLhyphen"/>ties, and the like▪ Thus much of the Lord Chancel<g ref="char:EOLhyphen"/>lors Jurisdiction ordinary, and extraordinary in the high Court of Chancery. I now proced to other Inci<g ref="char:EOLhyphen"/>dents of his Authority, and power, which he enjoy<g ref="char:EOLhyphen"/>eth by the Delivery of the Broad Seal of <hi>England.</hi>
+                  </p>
+                  <p>To his Lordship be<g ref="char:EOLhyphen"/>longeth <note place="margin">Lamberts Justice of peace Lib. 1. c. 5.</note> the constitution of the Justices of peace, and
+<pb n="24" facs="tcp:204618:14"/>
+                     <hi>Quor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m</hi> by Commission, throughout all <hi>England.</hi> And by the Act of 3 <hi>E.</hi> 6. c. 1. he was restored to his antient Authority, in naming the <hi>Custos Rotu<g ref="char:EOLhyphen"/>lorum.</hi>
+                  </p>
+                  <p>It appertaineth to the <note place="margin">Co. Litt. 96. a. 344. a. Davys Reports De capitu<g ref="char:EOLhyphen"/>lariter congrega<g ref="char:EOLhyphen"/>tis 46. b.</note> Chancellor of <hi>England</hi> to visit all Hospitalls, which be of the Kings Foundation, or of any of his Progenitors. And so likewise the Free-Chap<g ref="char:EOLhyphen"/>pels of the King, or of any of his Royal predecessors, no Ordinary shall visit, but onely the Chancellor of <hi>England.</hi>
+                  </p>
+                  <p>To the Chancellor it belongeth, <hi>Ratione Officii,</hi> to pronounce the Cause of Summons at the beginning of a Parliament.</p>
+                  <pb n="25" facs="tcp:204618:14"/>
+                  <p> The Chancellor is to be present at all the Kings Councils, and thither to repair uncalled.</p>
+                  <p>As often as the place of any of the Justices at Westm. by Death, or o<g ref="char:EOLhyphen"/>therwise <note place="margin">Fortescue C. 51.</note> is void, the King useth to choose one of the Serjeants at Law, and him by his Letters patents to ordeine a Justice, in the place of the Judge so ceasing, And then the Lord Chancellor of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> shall enter into the Court, where the Justice is so lacking, bringing with him those Letters patents, and sitting in the middest of the Justices, causeth the Serjeant so e<g ref="char:EOLhyphen"/>lect, to be brought in, to whom in open Court he
+<pb n="26" facs="tcp:204618:15"/> notifieth the Kings plea<g ref="char:EOLhyphen"/>sure, touching the Office of the Justice, then voyd, and causeth the aforesaid Letters patents to be o<g ref="char:EOLhyphen"/>penly read: which done, the Master of the Rolls shall read before the same Elect person, the Oath that he shall take; which when he hath sworn upon the holy Gospel, the Lord Chancellor shall deliver unto him the Kings Let<g ref="char:EOLhyphen"/>ters aforesaid.</p>
+                  <p>Note: Divers Acts of Parliament give Authori<g ref="char:EOLhyphen"/>ty <note place="margin">Co. 4. Inst. 81, &amp; 82.</note> to the Lord Chancellor, to hear and determine di<g ref="char:EOLhyphen"/>vers offences and Causes in the Court of Chancery, which is ever intended in the Court proceeding, <hi>secundum Legem et consu<g ref="char:EOLhyphen"/>etudinem</hi>
+                     <pb n="27" facs="tcp:204618:15"/>
+                     <hi>Angliae.</hi>
+                  </p>
+               </div>
+               <div n="7" type="section">
+                  <head>7. His Honour and prece<g ref="char:EOLhyphen"/>dency.</head>
+                  <p>
+                     <hi>CAncellarii Angliae,</hi> says <hi>Fitz Stephen, dignitas est, ut secundus à Rege in Regno habeatur:</hi> The dignity of the Chan<g ref="char:EOLhyphen"/>cellor of <hi>England</hi> is this, He is reputed the Second person in the <hi>Realme,</hi> and next unto the King.</p>
+                  <p>By the Statute of 31 <hi>H.</hi> 8. c. 10. the Lord Chancellor hath the pre<g ref="char:EOLhyphen"/>cedency of all other Great Officers of the <hi>Realme.</hi>
+                  </p>
+               </div>
+               <div n="8" type="section">
+                  <pb n="28" facs="tcp:204618:16"/>
+                  <head>8. His Priviledges.</head>
+                  <p>THe Lord Chancellor by the Statute of 21 <hi>H.</hi> 8. c. 13. may have three Chaplains, where<g ref="char:EOLhyphen"/>of every one may pur<g ref="char:EOLhyphen"/>chase a Licence, or dis<g ref="char:EOLhyphen"/>pensation, and receive and have two Benefices with Cure of Souls.</p>
+                  <p>By the Stat. of 27 <hi>H.</hi> 8. c. 11. The Lord Chan<g ref="char:EOLhyphen"/>cellor may pass things through the Seals, without paying any Fees.</p>
+                  <p>It is a priviledge apper<g ref="char:EOLhyphen"/>taining to his Lordship, to present to all the Kings <note place="margin">Plowd. Com. Hare v. Bickley 528.</note> Churches or Benefices, which are under value, that is under 20 markes, and be in the Kings Gift,
+<pb n="29" facs="tcp:204618:16"/> and in <hi>jure Coronae,</hi> and whereof his Majesty is Patron. But if the King have them by any collate<g ref="char:EOLhyphen"/>ral Title, the Lord Chan<g ref="char:EOLhyphen"/>cellor shall not have these presentments, but the King.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>9. His Assistants.</head>
+                  <p>IN the High Court of Chancery sit as As<g ref="char:EOLhyphen"/>sistants to the Lord Chan<g ref="char:EOLhyphen"/>cellor in matters of Judgement, twelve Ma<g ref="char:EOLhyphen"/>sters of Chancery, where<g ref="char:EOLhyphen"/>of the Chief and Principal is the Master of the Rolls, antiently called <hi>Garden des Rolls, Clericus Rotulo<g ref="char:EOLhyphen"/>rus, Custos Rotulorum:</hi> His Office is a very antient <note place="margin">Co. 4. Inst. 95.</note> Office, and grantable ei<g ref="char:EOLhyphen"/>ther
+<pb n="30" facs="tcp:204618:17"/> for Life, or at Will, at the pleasure of the King. The house annexed to his Office, is called <hi>Domus Conversorum,</hi> so called be<g ref="char:EOLhyphen"/>cause King <hi>H.</hi> 3. founded this house of Jewes as should be converted to the true Religion of Je<g ref="char:EOLhyphen"/>sus Christ, and there should have maintenance, and allowance, which continueth to this day. King <hi>E.</hi> 3. <hi>anno</hi> 15. of his Reign, by Letters Patents annexed this House to the Office of <hi>Custos ro<g ref="char:EOLhyphen"/>tulorum,</hi> and this Office is grantable by Letters Patents.</p>
+               </div>
+               <div n="10" type="section">
+                  <pb n="31" facs="tcp:204618:17"/>
+                  <head>10. His Attendants.</head>
+                  <p>THe Officers and Mi<g ref="char:EOLhyphen"/>nisters that do prin<g ref="char:EOLhyphen"/>pally attend on his Lord<g ref="char:EOLhyphen"/>ship, and do their service to the Great Seal, are, the Clerk of the Crown, the Clerk of the Hanaper, the Sealer, the Chafe-Wax, the Controller of <note place="margin">Co. 4. Inst. 82.</note> the Chancery, twenty four Coursitors, the Clerk of the presentations, the Clerk of the faculties, the Clerk examiner of Letters Pa<g ref="char:EOLhyphen"/>tents, the Clerks of the petty bag, the six Clerks, the two Examiners, and the Registers.</p>
+                  <p>Having thus far spo<g ref="char:EOLhyphen"/>ken concerning the Anti<g ref="char:EOLhyphen"/>quity, Creation, Qualifi<g ref="char:EOLhyphen"/>cations,
+<pb n="32" facs="tcp:204618:18"/> Jurisdiction, Dig<g ref="char:EOLhyphen"/>nity, Privileges &amp;c. of that person, to whom the care and Custody of the Great Seal of <hi>England</hi> is committed by our most Gracious Soveraign Lord the King, it followeth in order to shew you the Law of <hi>England</hi> immedi<g ref="char:EOLhyphen"/>ately touching, and apper<g ref="char:EOLhyphen"/>taining to this Great Seal, as 1. What a Seal is. 2. The Antiquity of Sealing. 3. What <hi>sigillus Regis</hi> ge<g ref="char:EOLhyphen"/>nerally spoken means. 4. The manner of pleading any thing under the Great Seal. 5. What things must pass the Great Seal to make them valid, and Authentique in our Law. 6. The remedy, or way to have things under the
+<pb n="33" facs="tcp:204618:18"/> Great Seal, as the Case shall require. 7. The Di<g ref="char:EOLhyphen"/>versitie betwixt a <hi>Constat, Exemplification, Vidimus, Inspeximus, Innotescimus, &amp;c.</hi> 8. and lastly, The Counterfeiting the Great Seal of <hi>England.</hi>
+                  </p>
+               </div>
+               <div n="1" type="section">
+                  <head>1. What a Seal is.</head>
+                  <p>
+                     <hi>SIgillus est,</hi> says <hi>Coke, Cera impressa, quia sine impressione non est Sigil<g ref="char:EOLhyphen"/>lum;</hi> And therefore it is required that Deeds, <note place="margin">Co 3. Inst. f. 169.</note> Charters, or other writ<g ref="char:EOLhyphen"/>ings must be Sealed; that is, have some Impression upon the wax, otherwise they have not the validity, and force of Deeds with<g ref="char:EOLhyphen"/>out a Seal.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="34" facs="tcp:204618:19"/>
+                  <head>2. The Antiquity of Seal<g ref="char:EOLhyphen"/>ing.</head>
+                  <p>THe Sealing of Char<g ref="char:EOLhyphen"/>ters, and Deeds is much more antient than some, out of Error, have immagined, for the Charter of King <hi>Edwin,</hi> brother of King <hi>Edgar,</hi> bearing date <hi>Anno Domini</hi> 956. made of the Land called <hi>Jecklea</hi> in the Isle of <hi>Ely,</hi> was not only Sea<g ref="char:EOLhyphen"/>led with his own Seal (which appeareth by these words, <hi>Ego Edwinus gra<g ref="char:EOLhyphen"/>tia Dei totius Britannnicae telluris Rex meum donum proprio sigillo meo confirma<g ref="char:EOLhyphen"/>vi)</hi> but also the Bishop <note place="margin">Co. Litt. f. 7. a.</note> of <hi>Winchestre</hi> put to his Seal, <hi>Ego Aelfwinus</hi>
+                     <pb n="35" facs="tcp:204618:19"/>
+                     <hi>Winton' Ecclesiae divinus Speculator proprium sigillum impressi:</hi> And the Charter of King <hi>Offa,</hi> whereby he gave the Peter-pence, doth yet remain under Seal. But no King of <hi>England,</hi> before, or since the Con<g ref="char:EOLhyphen"/>quest, Sealed with any Seal of Armes, before King <hi>R.</hi> 1. but the Seal was the King, sitting in a Chayr on the one side of the Seal, and on hors<g ref="char:EOLhyphen"/>back on the other side in divers Forms.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3. Sigillum Regis what.</head>
+                  <p>SIgillum Regis <hi>generally spoken is always in<g ref="char:EOLhyphen"/>tended the Great Seal</hi> propter Excellentiam, <hi>ac<g ref="char:EOLhyphen"/>cording to the Rules of</hi>
+                     <pb n="36" facs="tcp:204618:20"/>
+                     <hi>the Common, and Civil Law.</hi>
+                  </p>
+                  <p>Verbum aequivocum su<g ref="char:EOLhyphen"/>mitur in partem digniorem, &amp; potentiorem.</p>
+                  <p>Verba aequivoca, &amp; in dubio posita intelliguntur in digniori, et potentiori sensu.</p>
+                  <p>Verba sunt semper intel<g ref="char:EOLhyphen"/>ligenda in potentiori signi<g ref="char:EOLhyphen"/>ficatu: <hi>And so is our</hi> Bracton <hi>to be understood Lib.</hi> 3. <hi>f.</hi> 119. <hi>where he saith;</hi> Si aliquis accusatus fuerit, vel convictus, quod sigillum Domini Regis fal<g ref="char:EOLhyphen"/>saverit, consignando inde Chartas, vel Brevia &amp;c. pro voluntate Regis Judici<g ref="char:EOLhyphen"/>um sustinebit.</p>
+               </div>
+               <div n="4" type="section">
+                  <pb n="37" facs="tcp:204618:20"/>
+                  <head>4. The pleading a thing under the Great Seal.</head>
+                  <p>THe pleading of a Commissiom, or Pro<g ref="char:EOLhyphen"/>clamation, and doth not say, <hi>Sub magno sigillo,</hi> whe<g ref="char:EOLhyphen"/>ther it be good or no take these two following Ca<g ref="char:EOLhyphen"/>ses. <hi>sc.</hi>
+                  </p>
+                  <p n="1">1. There was Cove<g ref="char:EOLhyphen"/>nant brought for not Building of an House, where the Defendant co<g ref="char:EOLhyphen"/>venanted, <note place="margin">Cro. 3. part Keyley v. Manning f. 180, 181.</note> That he would erect three Houses upon such Land demised unto him, unless he were re<g ref="char:EOLhyphen"/>strained by the Kings pro<g ref="char:EOLhyphen"/>clamation &amp;c. The De<g ref="char:EOLhyphen"/>fendant pleaded, That such a day and year the King made a Proclamation, to
+<pb n="38" facs="tcp:204618:21"/> restrain building; and thereupon the Plaintiff demurred; and the Cause shewn was, because a Pro<g ref="char:EOLhyphen"/>clamation was pleaded, and no place expressed where the Proclamation was made, and so no visne, if Issue should have been joyned thereupon; Also because it is not pleaded, to have been made <hi>sub magno Sigillo Angliae,</hi> o<g ref="char:EOLhyphen"/>therwise it is not good. And of this Opinion were all the Court, upon the first motion, because a Proclamation binds not, unless it be under the Great Seal, and if it be denyed, there can be no Issue thereupon (but only <hi>Nul tiel Record)</hi> which cannot be, unless he plead
+<pb n="39" facs="tcp:204618:21"/> it <hi>sub magno sigillo.</hi> But afterwards being again moved, <hi>Jones,</hi> and <hi>Whit<g ref="char:EOLhyphen"/>locke</hi> seemed to doubt thereof, because when it is pleaded, that such a Pro<g ref="char:EOLhyphen"/>clamation was made, it shall be intended duely made: as in <hi>Rescous,</hi> it is returned, <hi>Quod fecit war<g ref="char:EOLhyphen"/>rantum,</hi> although it be not pleaded in writing, yet it shall be so intended. But it was thereto answered, True it is when it is but by way of Inducement, but otherwise, when it is the Substance of the Plea: whereupon it was adjour<g ref="char:EOLhyphen"/>ned.</p>
+                  <p n="2">2. In the Case, be<g ref="char:EOLhyphen"/>twixt <hi>Stone</hi> and <hi>Newman,</hi> it was moved upon Ex<g ref="char:EOLhyphen"/>ceptions to the Pleading:
+<pb n="40" facs="tcp:204618:22"/> One of them was, That the Indictment was by vertue of a Commission granted to divers persons, and he doth not say, <hi>sub magno</hi>
+                     <note place="margin">Cro. 3. part Stone v. Newman f. 461.</note>
+                     <hi>sigillo Angliae,</hi> And that the Attaynder was upon the Tryl baefore the Comis<g ref="char:EOLhyphen"/>sioners, and he doth not say, <hi>sub magno sigillo,</hi> so as, if it were not <hi>sub mag<g ref="char:EOLhyphen"/>no sigillo,</hi> it is not good. And in proof thereof, the pleading in the Common Bench, in <hi>Moultons</hi> Case was remembred, That the Commission was <hi>sub mag<g ref="char:EOLhyphen"/>no sigillo;</hi> And in <hi>Hunt<g ref="char:EOLhyphen"/>leys</hi> Case, in the Court of Kings Bench, because the Deprivation was found before the Commissioners Ecclesiastical <hi>virtute Com<g ref="char:EOLhyphen"/>missionis,</hi> to them direct<g ref="char:EOLhyphen"/>ed,
+<pb n="41" facs="tcp:204618:22"/> and doth not say, <hi>sub magno Sigillo,</hi> it was held to be ill, and <hi>Coke</hi> Lib. 5. f. 51. Letters Patents were pleaded <hi>sub magno sigillo.</hi> And although it be true, that in <hi>Plowd. Com.</hi> in <hi>Wal<g ref="char:EOLhyphen"/>singhams</hi> Case, it is plead<g ref="char:EOLhyphen"/>ed as here, and doth not say, <hi>sub magno sigillo,</hi> and yet Judgement given; It was said, That was because no exception was taken thereto: And in <hi>Coke</hi> Lib. <hi>Entr.</hi> f. 174. the Commissi<g ref="char:EOLhyphen"/>on is pleaded by Letters Patents, <hi>sub magno sigillo,</hi> and an Attaynder by ver<g ref="char:EOLhyphen"/>tue thereof, <hi>&amp; ibid.</hi> 194. in the Care of Sr. <hi>Moyle Finch</hi> it was so likewise pleaded: so generally the pleading is <hi>sub magno si<g ref="char:EOLhyphen"/>gillo:</hi> otherwise it is ill,
+<pb n="42" facs="tcp:204618:23"/> as no Attaynder pleaded. And of that Opinion was <hi>Jones</hi> at the first; but af<g ref="char:EOLhyphen"/>terward upon search of Presidents, whereby it appeared, that sometimes <hi>Sub magno sigillo</hi> was o<g ref="char:EOLhyphen"/>mitted, and when it is shewn, <hi>Quod per Literas Patentes Commissionis</hi> (o<g ref="char:EOLhyphen"/>mitting <hi>sub magno sigillo)</hi> It is to be intended un<g ref="char:EOLhyphen"/>der the Great Seal and not otherwise. All the Court agreed, that al<g ref="char:EOLhyphen"/>though it were the bet<g ref="char:EOLhyphen"/>ter Course to shew, that it was <hi>sub magno sigillo,</hi> yet being ommitted, it is well enough, and good both ways: And they agreed, that here, according to the greater Opinion in the Exchequer Chamber,
+<pb n="43" facs="tcp:204618:23"/> Judgement should be en<g ref="char:EOLhyphen"/>tered for the Playntiff.</p>
+                  <p>Note; Letters Patents being matter of Record, and shewn to the Court, <note place="margin">Co. Litt. 260. a. Lib. 6. Edens Case.</note> under the Great Seal, cannot be denyed, nei<g ref="char:EOLhyphen"/>ther can the party say, <hi>Nul tiel Record.</hi>
+                  </p>
+               </div>
+               <div n="5" type="section">
+                  <head>5. What things ought to pass the Great Seal.</head>
+                  <div n="1" type="subsection">
+                     <head>1. Auditors.</head>
+                     <p>THe nomination of Auditors in the Court of wards ought to be un<g ref="char:EOLhyphen"/>der the Great Seal. <hi>Coke Lib.</hi> 11. <hi>Auditor Curles</hi> Case.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <pb n="44" facs="tcp:204618:24"/>
+                     <head>2. Summons in Parli<g ref="char:EOLhyphen"/>ament.</head>
+                     <p>He that declares the Cause of Summons in Par<g ref="char:EOLhyphen"/>liament, not being Chan<g ref="char:EOLhyphen"/>cellor, or Lord Keeper, must at this day have a Commission under the Great Seal. The form of that Commission you may see in Mr. <hi>Elsings Mo<g ref="char:EOLhyphen"/>dus tenendi Parliamentum.</hi>
+                     </p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <head>3. Kings Treasure,</head>
+                     <p>No Officer of the King can dispose of any part of the Kings Treasure, for the profit, and Honour of the King, without war<g ref="char:EOLhyphen"/>rant under the Great or Privie Seal. <hi>Co. Lib.</hi> 11.
+<pb n="45" facs="tcp:204618:24"/> Earle of <hi>Devons</hi> Case.</p>
+                  </div>
+                  <div n="4" type="subsection">
+                     <head>4. An Office of Intitling.</head>
+                     <p>One <hi>Tregose</hi> was indi<g ref="char:EOLhyphen"/>cted of a <hi>Praemunire</hi> upon the Statute of 13 <hi>Eliz.</hi> and afterward made a gift in Tail of that Land, and was after attaynted by Verdict, and had Judge<g ref="char:EOLhyphen"/>ment for the said Offence; And it was afterwards <note place="margin">Cro. 3. part. Grosse v. Gager.</note> found by Inquisition, upon a Commission out of the Exchequer, that <hi>Tregose</hi> was seised in Fee of those Lands at the time of the Offence committed; And that the Queen by Patent granted those Lands to Sr. <hi>Geo. Cary &amp;c.</hi> One of the Questions was, whe<g ref="char:EOLhyphen"/>ther this Patent after the
+<pb n="46" facs="tcp:204618:25"/> Inquisition by Commission under the Exchequer Seal (no Office being found by Inquisition under the Great Seal) be good by the Statute of 18 <hi>Eliz.</hi> c. 2. which makes Patents up<g ref="char:EOLhyphen"/>on valuable Considerati<g ref="char:EOLhyphen"/>on good, notwithstanding there be not any Inquisiti<g ref="char:EOLhyphen"/>on under the Great Seal? It was resolved, that in this Case nothing vested in the King, untill Office found; and it ought to be an Office by Commission under the Great Seal; For the Frank-tenement, being in the party offend<g ref="char:EOLhyphen"/>ing at the time of the At<g ref="char:EOLhyphen"/>taynder, it shall not be divested from him, and in the King without Office by Commission under the
+<pb n="47" facs="tcp:204618:25"/> Great Seal which is only an Office to intitle the King, and not by Inquisition, by vertue of a Commission under the Exchequer Seal, which is but for Instructi<g ref="char:EOLhyphen"/>on, or Information to the King, and for his Officers, to put the Lands holden of the King in Charge: but here the Lands are not come unto the King, until Office found.</p>
+                  </div>
+                  <div n="5" type="subsection">
+                     <head>5. Reteiner.</head>
+                     <p>If a man be indicted of Felonie, and found guilty, and being in Pri<g ref="char:EOLhyphen"/>son, the King may retain him to serve in his Wars, on this side, or beyond the Seas, but this <hi>Retey<g ref="char:EOLhyphen"/>ner</hi> must be under the
+<pb n="48" facs="tcp:204618:26"/> Great Seal. <hi>Co.</hi> 3. <hi>Inst. f.</hi> 239.</p>
+                  </div>
+                  <div n="6" type="subsection">
+                     <head>6. Private Acts not Prin<g ref="char:EOLhyphen"/>ted.</head>
+                     <p>All such private Acts as are not imprinted, if a man will have the same Exemplified, he must trans<g ref="char:EOLhyphen"/>mit the same to the Lord Chancellor, to be ingros<g ref="char:EOLhyphen"/>ses, and sealed under the Great Seal.</p>
+                  </div>
+                  <div n="7" type="subsection">
+                     <head>7. Essoyne and Protection.</head>
+                     <p>No <hi>Essoyne de servitio Regis,</hi> or writ of Prote<g ref="char:EOLhyphen"/>ction can be warranted, or allowed, unless it be un<g ref="char:EOLhyphen"/>der the Great Seal, and the Reason is, because they tend to the delay of Ju<g ref="char:EOLhyphen"/>stice,
+<pb n="49" facs="tcp:204618:26"/> if they be not due<g ref="char:EOLhyphen"/>ly obteined, and there<g ref="char:EOLhyphen"/>fore the Law requireth the Great Seal. <hi>Co. Litt.</hi> 131. <hi>a. Co.</hi> 2. <hi>Inst. f.</hi> 555.</p>
+                  </div>
+                  <div n="8" type="subsection">
+                     <head>1. Travelling beyond Seas.</head>
+                     <p>The King may graunt Licence to travel beyond Seas, either under the Great Seal, Privy Seal, or Signet, but he cannot recall one that is beyond Seas, but by the Great Seal or Privy Seal. <hi>Co.</hi> 3. <hi>Inst. f.</hi> 179. <hi>&amp;</hi> 180.</p>
+                  </div>
+                  <div n="9" type="subsection">
+                     <head>9. Guardian of England.</head>
+                     <p>The Parliament cannot begin but by the Royall Presence of the King, ei<g ref="char:EOLhyphen"/>ther in Person or by Re<g ref="char:EOLhyphen"/>presentation:
+<pb n="50" facs="tcp:204618:27"/> By Repre<g ref="char:EOLhyphen"/>sentation two ways, ei<g ref="char:EOLhyphen"/>ther by Guardian of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> by Letters Patents, when the King is <hi>in Re<g ref="char:EOLhyphen"/>motis</hi> out of the Realm, or by Commission to cer<g ref="char:EOLhyphen"/>tain Lords of Parliament representing the Person of the King, he being within the Realm, in re<g ref="char:EOLhyphen"/>spect of some Infirmitie. Either of these ways, <hi>viz.</hi> by Letters Patents, or Commission it must be un<g ref="char:EOLhyphen"/>der the Great Seal. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 6.</p>
+                  </div>
+                  <div n="10" type="subsection">
+                     <head>10. Steward of England.</head>
+                     <p>The <hi>Steward</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> for the Tryal of a Nobleman must be con<g ref="char:EOLhyphen"/>stituted by the Kings Commission under the
+<pb n="51" facs="tcp:204618:27"/> Great Seal of <hi>England. Co.</hi> 3. <hi>Inst. f.</hi> 28.</p>
+                  </div>
+                  <div n="11" type="subsection">
+                     <head>11. Person accused of Treason.</head>
+                     <p>A discharge from the King of further proceed<g ref="char:EOLhyphen"/>ing against a Person ac<g ref="char:EOLhyphen"/>cused of Treason, or Fe<g ref="char:EOLhyphen"/>lony, must be under the Great Seal of <hi>England. Co.</hi> 3. <hi>Inst. f.</hi> 239.</p>
+                  </div>
+                  <div n="12" type="subsection">
+                     <head>12. A Ward.</head>
+                     <p>A Question was, whe<g ref="char:EOLhyphen"/>ther a Lease for years, <hi>durante minore aetate,</hi> may be under the Seal of the Court of Wards, or ought to be under the Great Seal? And the Court held it, to be well enough,
+<pb n="52" facs="tcp:204618:28"/> under the Seal of the Court of Wards, and so hath ever been the pra<g ref="char:EOLhyphen"/>ctice, since the Creation of the Court of Wards: And they likewise held, That a Lease of the Land might be well before Of<g ref="char:EOLhyphen"/>fice: But of the Body it cannot be granted but under the Great Seal, and after Office. <hi>Cro.</hi> 1. Part, <hi>West v. Lassels.</hi>
+                     </p>
+                  </div>
+                  <div n="13" type="subsection">
+                     <head>13. Clayms before a Coro<g ref="char:EOLhyphen"/>nation.</head>
+                     <p>At every <hi>Coronation</hi> the Lord Steward of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath a Commission <hi>hac vice,</hi> to hear, and de<g ref="char:EOLhyphen"/>termine the Claymes for grand Serjeanties, and o<g ref="char:EOLhyphen"/>ther honourable Services to be done at the <hi>Corona<g ref="char:EOLhyphen"/>tion</hi>
+                        <pb n="53" facs="tcp:204618:28"/> for the solemnization thereof, and this Com<g ref="char:EOLhyphen"/>mission is under the Great Seal of <hi>England. Co.</hi> 4. <hi>Inst. f.</hi> 59.</p>
+                  </div>
+                  <div n="14" type="subsection">
+                     <head>14. President of the Council.</head>
+                     <p>The Office of the <hi>Pre<g ref="char:EOLhyphen"/>sident</hi> of the <hi>Council</hi> was never granted but by Let<g ref="char:EOLhyphen"/>ters Patents under the Great Seal. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 55.</p>
+                  </div>
+                  <div n="15" type="subsection">
+                     <head>15. Riotts, Extortions &amp;c.</head>
+                     <p>For Riotts, Extortions, Oppressions, &amp;c. by per<g ref="char:EOLhyphen"/>sons done against the Kings Peace, and Laws, to di<g ref="char:EOLhyphen"/>vers of his Liege people, Commandment hath been
+<pb n="52" facs="tcp:204618:29"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="53" facs="tcp:204618:29"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="54" facs="tcp:204618:30"/> and is given by the Kings Writ under the Great Seal, to appear before the King in Chancery, &amp;c. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 61.</p>
+                  </div>
+                  <div n="16" type="subsection">
+                     <head>16. Redress of Delays.</head>
+                     <p>The Commission, and power of a Prelate, two Earls, and two Barons to redress delays of Judge<g ref="char:EOLhyphen"/>ment must be under the great Seal. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 69.</p>
+                  </div>
+                  <div n="17" type="subsection">
+                     <head>17. Judges discharged.</head>
+                     <p>The Chief Justice of the Kings Bench, and the rest of the Judges may be discharged by Writ un<g ref="char:EOLhyphen"/>der the Great Seal. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 75.</p>
+                  </div>
+                  <div n="18" type="subsection">
+                     <pb n="55" facs="tcp:204618:30"/>
+                     <head>18. Process in Star-cham<g ref="char:EOLhyphen"/>ber.</head>
+                     <p>All the writs, and pro<g ref="char:EOLhyphen"/>cess of the Court of Star-chamber are under the Great Seal. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 63, <hi>&amp;</hi> 66.</p>
+                  </div>
+                  <div n="19" type="subsection">
+                     <head>19. The Office of the Trea<g ref="char:EOLhyphen"/>surer.</head>
+                     <p>The Lord Treasurer of <hi>England</hi> hath granted to him by Letters Patents under the Great Seal, <hi>Thesaurariam Scaccarii Re<g ref="char:EOLhyphen"/>gis Angliae,</hi> which of antient time was a distinct Office by it self. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 105.</p>
+                  </div>
+                  <div n="20" type="subsection">
+                     <pb n="56" facs="tcp:204618:31"/>
+                     <head>20. Lands in the Kings Hands.</head>
+                     <p>To the end that no Lands in the Kings Hands, which ought to be to the Kings Profit, should be without a Farmor, that should yield a Rent to the King, the Treasurer in certain Cases, and with certain Cautions ought to make a Warrant to the Great Seal for demising thereof. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 111.</p>
+                  </div>
+                  <div n="21" type="subsection">
+                     <head>21. Untrue Accompts in the Exchequer.</head>
+                     <p>The Court to Enquire of, and Certifie unlawful, and untrue Accompts in the Exchequer sitteth by
+<pb n="57" facs="tcp:204618:31"/> Commission under the Great Seal. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 117.</p>
+                  </div>
+                  <div n="22" type="subsection">
+                     <head>22. Armes, Sirname, and Barony.</head>
+                     <p>An Assignement to a<g ref="char:EOLhyphen"/>nother of a mans Armes and Barony must be by Letters Patents under the Great Seal. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 126.</p>
+                  </div>
+                  <div n="23" type="subsection">
+                     <head>23. Tryal of Treasons &amp;c. committed upon the Sea.</head>
+                     <p>The Court for the Tryal of all Treasons, Felonies, Robberies, Murders and Confederacies, committed, or done upon the Sea by force of the Statute of 28 <hi>H.</hi> 8. <hi>c.</hi> 15. must be
+<pb n="58" facs="tcp:204618:32"/> by Commission under the Great Seal of <hi>England. Co.</hi> 4. <hi>Inst. f.</hi> 147.</p>
+                  </div>
+                  <div n="24" type="subsection">
+                     <head>24. Beacons, Light-Hou<g ref="char:EOLhyphen"/>ses, Sea-marks &amp;c.</head>
+                     <p>At the Common Law none but the King only could erect Beacons, Light-Houses, and Sea-marks, which ever was done by the Kings Com<g ref="char:EOLhyphen"/>mission under the Great Seal. <hi>Co.</hi> 4. <hi>Inst.</hi> 148.</p>
+                  </div>
+                  <div n="25" type="subsection">
+                     <head>25. Sewers.</head>
+                     <p>The Authority of those, that are employed about Sewers, is by Commission under the Great Seal of <hi>England. Co.</hi> 4. <hi>Inst.</hi> 275.</p>
+                  </div>
+                  <div n="26" type="subsection">
+                     <pb n="59" facs="tcp:204618:32"/>
+                     <head>26. Bankrupts.</head>
+                     <p>The Authority of the Commissioners upon the Stat. of Bankrupts, is by Commission under the Great Seal. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 277.</p>
+                  </div>
+                  <div n="27" type="subsection">
+                     <head>27. The Isles of Jersey, Man, &amp;c.</head>
+                     <p>Albeit the Kings Writ runneth not into the Isles of <hi>Jersey, Garnsey, Man, &amp;c.</hi> yet his Commission doth, but then it must be under the Great Seal. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 286.</p>
+                  </div>
+                  <div n="28" type="subsection">
+                     <pb n="60" facs="tcp:204618:33"/>
+                     <head>28. Commissioners in Causes Ecclesiastical.</head>
+                     <p>The Assignation, and Authorizing of Commissi<g ref="char:EOLhyphen"/>oners, to execute the Ecclesiastical Jurisdiction, which was restored to Q. Elizabeth, ought to be un<g ref="char:EOLhyphen"/>der the Great Seal. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 326, <hi>&amp;</hi> 327.</p>
+                  </div>
+                  <div n="29" type="subsection">
+                     <head>29. Delegates.</head>
+                     <p>The Commissioners, called Delegates, do sit by force of the Kings Com<g ref="char:EOLhyphen"/>mission under the Great Seal of <hi>England. Co.</hi> 4. <hi>Inst.</hi> 339.</p>
+                  </div>
+                  <div n="30" type="subsection">
+                     <pb n="61" facs="tcp:204618:33"/>
+                     <head>30. Pardoning part of the Judgement.</head>
+                     <p>In the Case of High Treason, committed by a Nobleman, if all the Rest of the Judgement (saving the beheading, which is part of the Judgment) be pardoned, this ought to be under the Great Seal of <hi>England. Co.</hi> 3. <hi>Inst. f.</hi> 31.</p>
+                  </div>
+                  <div n="31" type="subsection">
+                     <head>31. Prorogation of a Par<g ref="char:EOLhyphen"/>liament.</head>
+                     <p>When the Parliament shall not begin at the day of the return, but for cer<g ref="char:EOLhyphen"/>tain urgent Causes then to be prorogued until ano<g ref="char:EOLhyphen"/>ther day, then to be hold<g ref="char:EOLhyphen"/>en
+<pb n="62" facs="tcp:204618:34"/> before the King, there is a ready way for the effecting thereof, and that is by Writ Patent under the whole Great Seal, &amp;c. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 7.</p>
+                  </div>
+                  <div n="32" type="subsection">
+                     <head>32. Royal Assent.</head>
+                     <p>The Royal Assent, in the Kings Absence, to an Act of Parliament, is of validity and Force, if by Letters Patents under the Great Seal. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 28. 33 <hi>H.</hi> 8. <hi>c.</hi> 21.</p>
+                  </div>
+                  <div n="33" type="subsection">
+                     <head>33. Justice in Eyre.</head>
+                     <p>The Justice in Eyre of the Kings Forest, hath Au<g ref="char:EOLhyphen"/>thority, and Jurisdiction, to hear, and determin, touching Vert &amp; Venison,
+<pb n="63" facs="tcp:204618:34"/> &amp;c. by force of Letters Patents under the Great Seal. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 391.</p>
+                  </div>
+                  <div n="34" type="subsection">
+                     <head>34. Forests Woods.</head>
+                     <p>When need is to sell seasonable woods within the Kings Forests, or Tim<g ref="char:EOLhyphen"/>ber for his Majesties use, the same must be sold or taken by force of the Great Seal, or Exche<g ref="char:EOLhyphen"/>quer Seal by view of the Foresters. <hi>Co.</hi> 4. <hi>Inst.</hi> 299.</p>
+                  </div>
+                  <div n="35" type="subsection">
+                     <head>35. The proceedings of the Parliament in Ireland.</head>
+                     <p>All the Bills of Ireland, which are affirmed or alte<g ref="char:EOLhyphen"/>red here in <hi>England,</hi> ought to be returned un<g ref="char:EOLhyphen"/>der the Great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+                        <pb n="64" facs="tcp:204618:35"/>
+                        <hi>Co.</hi> 4. <hi>Inst. f.</hi> 353.</p>
+                  </div>
+                  <div n="36" type="subsection">
+                     <head>36. The Isle of Man.</head>
+                     <p>The Isle of <hi>Man,</hi> which is no part of the Kingdom, but a distinct Territory of it self hath been graun<g ref="char:EOLhyphen"/>ted by the Great Seal to divers Subjects, and their Heirs: It was resolved by the Lord Chancellor, the two Chief Justices, and the Chief Baron that the same is an Estate descendible, according to the Course of the Com<g ref="char:EOLhyphen"/>mon Law, for whatsoever Estate of Inheritance pass under the Great Seal of <hi>England,</hi> it shall be des<g ref="char:EOLhyphen"/>cendible, according to the Rules, and Course of the Common Law of <hi>England.</hi>
+                        <pb n="65" facs="tcp:204618:35"/>
+                        <hi>Co. Litt.</hi> 9. <hi>a. Co.</hi> 4. <hi>Inst.</hi> 284.</p>
+                  </div>
+                  <div n="37" type="subsection">
+                     <head>37. The Kings Grant of Lands.</head>
+                     <p>By the Common Law no grant of any Lands is avayleable from the King, or pleadable, but under the Great Seal of <hi>England;</hi> But there are 3 Remedies, to have it under the Great Seal, as the Case shall re<g ref="char:EOLhyphen"/>quire.</p>
+                  </div>
+               </div>
+               <div n="6" type="section">
+                  <head>6. The Remedy to have things under the Great Seal.</head>
+                  <p n="1">1. A Man may have a <hi>Duplicat</hi> at the Sealing of the Letters Pa<g ref="char:EOLhyphen"/>tents.</p>
+                  <p n="2">2. If they be lost, he may have a <hi>Constat,</hi> upon
+<pb n="66" facs="tcp:204618:36"/> Oath made that they be lost, and that if they be found again, then they shall be restored again in<g ref="char:EOLhyphen"/>to the Chancery, to be Cancelled.</p>
+                  <p n="3">3. The Party may have an Exemplification upon the Inrollment.</p>
+                  <p>Now an Exemplificati<g ref="char:EOLhyphen"/>on is when a man will have any original Record writ<g ref="char:EOLhyphen"/>ten out, and exemplified forth of the Court, where it remains, to which purpose he may have a Writ, as appeareth by the Register. <hi>Orig. f.</hi> 290.</p>
+                  <p>And if a man will plead a Record in another Court than where it remaineth, it behooveth him to have this Record exemplified under the Great Seal of
+<pb n="67" facs="tcp:204618:36"/>
+                     <hi>England</hi> if he be denied, for it ought to come into the Chancery by <hi>Certi<g ref="char:EOLhyphen"/>orare,</hi> and there to be exemplified under the Great Seal, for if it be exemplified under the Seal of the Common Pleas or of the Exchequer, or such like, this will not serve, unless in Evidence to a Jury. See <hi>Co. Lib.</hi> 5. <hi>f.</hi> 53.</p>
+                  <p>But heretofore a Deed inrolled could not be pleaded, though it were exemplified under the Great Seal, without shew<g ref="char:EOLhyphen"/>ing forth the Deed it self under Seal: <hi>vide</hi> 32 <hi>H.</hi> 8. in Patents <hi>Br.</hi> 12 <hi>H.</hi> 7. 12. <hi>b.</hi> and not the exem<g ref="char:EOLhyphen"/>plification: And so no <hi>Constat,</hi> or <hi>Inspeximus</hi> of
+<pb n="68" facs="tcp:204618:37"/> the Kings Letters Patents were avayleable to be shewed forth in Court, but the Letters Patents under Seal. For both the <hi>Constat</hi> and <hi>Inspeximus</hi> are but Exemplifications of the Inrollment of the Charters, or Letters Pa<g ref="char:EOLhyphen"/>tents, and this appeareth by the Resolution of two several Parliaments, one holden in the third, and fourth year of King <hi>Ed.</hi> 6. and the other in the 13. year of Q. <hi>Eliz.</hi> But now by those Statutes the Ex<g ref="char:EOLhyphen"/>emplification, <note place="margin">3 &amp; 4 <hi>E.</hi> 6. c. 4. &amp; 13 <hi>Eliz.</hi> c. 6.</note> or <hi>Constat</hi> under the Great Seal of <hi>England</hi> of the Inrollment of any Letters Patents, made since the fourth day of February, <hi>Anno</hi> 27 <hi>H.</hi> 8. or after to be made,
+<pb n="69" facs="tcp:204618:37"/> shall be sufficient to be pleaded, and shewed forth in Court, as well against the King as any other per<g ref="char:EOLhyphen"/>son, by the Patentees them<g ref="char:EOLhyphen"/>selves, and by all and eve<g ref="char:EOLhyphen"/>ry other person or per<g ref="char:EOLhyphen"/>sons, claiming by, from, and under them. Which Statutes are general, and beneficial, and especially the Act of 13 <hi>Eliz.</hi> for that extends not only to Lands, Tenements, and Hereditaments, but to e<g ref="char:EOLhyphen"/>very other thing whatso<g ref="char:EOLhyphen"/>ever, and ought to be fa<g ref="char:EOLhyphen"/>vorably Construed for ad<g ref="char:EOLhyphen"/>vancement of the Remedy, and Right of the Subject. And seeing the aforesaid Statutes do extend to make an Exemplification, or <hi>Constat</hi> of Letters Patents
+<pb n="70" facs="tcp:204618:38"/> to be pleadable, it will be not inconvenient, to shew the diversity betwixt an Exemplification, &amp; a <hi>Con<g ref="char:EOLhyphen"/>stat,</hi> and the signification of other words, by which Letters Patents are com<g ref="char:EOLhyphen"/>monly named, <hi>viz. In<g ref="char:EOLhyphen"/>speximus, Innotescimus, &amp; Vidimus.</hi>
+                  </p>
+               </div>
+               <div n="7" type="section">
+                  <head>7. The difference betwixt a Constat, Inspeximus, &amp; Vidimus.</head>
+                  <p>AN Exemplification, &amp; an <hi>Inspeximus</hi> are all one, as an <hi>Innotescimus,</hi> and <hi>Vidimus</hi> are. <hi>Co. Lib.</hi> 5. <hi>Pages</hi> Case. An <hi>Inspeximus,</hi> or an Exemplification be<g ref="char:EOLhyphen"/>gins in this manner: <hi>Ca<g ref="char:EOLhyphen"/>rolus Secundus Dei gratia &amp;c. Omnibus &amp;c. Inspex<g ref="char:EOLhyphen"/>imus</hi>
+                     <pb n="71" facs="tcp:204618:38"/>
+                     <hi>Irrotulamentum qua<g ref="char:EOLhyphen"/>rundam Literarum Paten<g ref="char:EOLhyphen"/>tium &amp;c.</hi> and it doth recite the Record word by word, and doth conclude in this Form: <hi>Nos autem tenorem Literarum Patentium prae<g ref="char:EOLhyphen"/>dict. &amp;c. ad Requisitionem A. B. duximus ad Exempli<g ref="char:EOLhyphen"/>ficandum per Praesentes. In cujus rei Testimonium &amp;c.</hi> And it is called an <hi>Inspex<g ref="char:EOLhyphen"/>imus,</hi> because it beginneth after the Stile of the King with <hi>Inspeximus.</hi> And 'tis called an Exemplification a <hi>Reipsa,</hi> because the Re<g ref="char:EOLhyphen"/>cord by it is Exemplified, as it doth appear by the end of it. <hi>viz. Duximus ad Exemplificandum per Praesentes;</hi> And the <hi>Con<g ref="char:EOLhyphen"/>stat</hi> doth begin after the Stile of the King: <hi>viz.</hi>
+                     <pb n="72" facs="tcp:204618:39"/>
+                     <hi>Constat nobis per Inspecti<g ref="char:EOLhyphen"/>onem Rotulorum Cancella<g ref="char:EOLhyphen"/>riae nostrae, quod Domi<g ref="char:EOLhyphen"/>nus Jacobus nuper Rex Angliae Avus noster prae<g ref="char:EOLhyphen"/>charissimus Literas suas fieri fecit Patentes in haec verba &amp;c. Jacobus Dei gra<g ref="char:EOLhyphen"/>tia. &amp;c.</hi> and reciteth all the Letters Patents word by word. <hi>Nos autem pro eo quod Literae Patentes prae<g ref="char:EOLhyphen"/>dict. sunt casualiter amissae, sicut A. B. nobis in Can<g ref="char:EOLhyphen"/>cellariâ nostrâ personali<g ref="char:EOLhyphen"/>ter sacramentum praestite<g ref="char:EOLhyphen"/>rit Corporale, &amp; quod ip<g ref="char:EOLhyphen"/>se Literas praedictas, si eas in posterum reperire conti<g ref="char:EOLhyphen"/>gerit nobis in Cancellariam nostram restituerit Cancel<g ref="char:EOLhyphen"/>landas, Tenorem Irrotula<g ref="char:EOLhyphen"/>menti praedicti ad Requisiti<g ref="char:EOLhyphen"/>onem A. B. duximus ad</hi>
+                     <pb n="73" facs="tcp:204618:39"/>
+                     <hi>exemplificandum per praesen<g ref="char:EOLhyphen"/>tes. In Cujus Rei Te<g ref="char:EOLhyphen"/>stimonium &amp;c.</hi> And it is called a <hi>Constat,</hi> for that after the style of the King it beginneth with this word <hi>Constat,</hi> but nothing is ex<g ref="char:EOLhyphen"/>emplified in the Tenor of the Record.</p>
+                  <p>Also by what has been said, it is apparent that a man cannot have a <hi>Con<g ref="char:EOLhyphen"/>stat</hi> without an <hi>Affidavit</hi> (as it is seen by the form of the <hi>Constat)</hi> but an <hi>Inspeximus</hi> may be obtain<g ref="char:EOLhyphen"/>ed without an <hi>Affidavit.</hi>
+                  </p>
+                  <p>An <hi>Innotescimus,</hi> and a <hi>Vidimus</hi> be all one, They are alwayes of a Charter of Feoffment, or some other Instrument, which is not of Record; And the <hi>Innotescimus</hi> doth be<g ref="char:EOLhyphen"/>gin
+<pb n="74" facs="tcp:204618:40"/> in this Form: <hi>Rex &amp;c. Omnibus &amp;c. Inspeximus queddam scrip<g ref="char:EOLhyphen"/>tum ten. per A. B. R. G. Sigillo ipsius A. B. Si<g ref="char:EOLhyphen"/>gillat. ut dicitur in haec verba: Sciant praesentes &amp;c.</hi> and reciteth the In<g ref="char:EOLhyphen"/>strument <hi>de verbo in ver<g ref="char:EOLhyphen"/>bum, &amp; hoc omnibus quo<g ref="char:EOLhyphen"/>rum interest, aut interesse poterit in praemissis inno<g ref="char:EOLhyphen"/>tescimus;</hi> by reason of the word <hi>Innotescimus</hi> in the end, it is so stiled: and sometimes it doth commence, <hi>Vidimus quod<g ref="char:EOLhyphen"/>dam scriptum &amp;c.</hi> and them 'tis called a <hi>Vidimus.</hi>
+                  </p>
+                  <p>Further there are these Diversities betwixt an Exemplification, and a <hi>Constat:</hi>
+                  </p>
+                  <p>If the Kings Letters
+<pb n="75" facs="tcp:204618:40"/> Patents be eaten with Ratts, or stayned by any means, the Patentee (as it is a received Opinion) cannot have a <hi>Constat,</hi> but he may have an Exempli<g ref="char:EOLhyphen"/>fication upon the Record, for that the <hi>Constat</hi> is ne<g ref="char:EOLhyphen"/>ver had, but upon the Losing of the Patent.</p>
+                  <p>Again: Strangers as well as Privies may have an Exemplification, but a <note place="margin">20 <hi>H.</hi> 7. 7. <hi>b.</hi>
+                     </note>
+                     <hi>Constat</hi> only lyes for those that are Privies.</p>
+                  <p>I shall now conclude the Learning, touching Ex<g ref="char:EOLhyphen"/>emplifications with these following Quaeres, with their Resolutions:</p>
+                  <p>
+                     <hi>Qu.</hi> 1. Whether that, which is to be Exempli<g ref="char:EOLhyphen"/>fied under the Great Seal, ought to be of Record?</p>
+                  <pb n="76" facs="tcp:204618:41"/>
+                  <p>
+                     <hi>Res.</hi> Neither Deed, Charter, or other write<g ref="char:EOLhyphen"/>ing, either Sealed, or without Seal, ought to be exemplified under the Great Seal, or any other Seal in Court of Record; for Seals of Courts of Re<g ref="char:EOLhyphen"/>cord ought not to exem<g ref="char:EOLhyphen"/>plify any thing, but that which is of Record, be<g ref="char:EOLhyphen"/>cause Records be pub<g ref="char:EOLhyphen"/>lique, whereunto every Subject may have Re<g ref="char:EOLhyphen"/>course, to confer the Exemplification with the Record it Self; And Re<g ref="char:EOLhyphen"/>cords <note place="margin">Co. Lit. f. 225. b.</note> be in the Custody of sworn Officers, and therefore no Inconveni<g ref="char:EOLhyphen"/>ence can follow upon the Exemplification of them. But a Deed, Charter, and <note place="margin">Co. 3. Inst. 17<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> other writings are pri<g ref="char:EOLhyphen"/>vate,
+<pb n="77" facs="tcp:204618:41"/> and remain in the Custody of the Party, and may be rased, interlined, or corrupted in points material, and if they should be exemplified, the Rasure, interlineation, and Cor<g ref="char:EOLhyphen"/>ruption shall not appear therein. Also the Deed, Charter, or other write<g ref="char:EOLhyphen"/>ing may be forged, and if they should be exempli<g ref="char:EOLhyphen"/>fied, then the exemplifica<g ref="char:EOLhyphen"/>tion might ever be shew<g ref="char:EOLhyphen"/>ed in evidence, and not the Deed <hi>&amp;c.</hi> it self, and so the Forgery, and Falsity should never upon the view of the Deed, or of the Seal, or other things Rising upon the view, be discovered.</p>
+                  <p>
+                     <hi>Qu.</hi> 2. Whether all Records may be exempli<g ref="char:EOLhyphen"/>fied
+<pb n="78" facs="tcp:204618:42"/> under the Great Seal of <hi>England?</hi>
+                  </p>
+                  <p>
+                     <hi>Res.</hi> No Record, or Inrolment of any Record, may be Exemplified under <note place="margin">Co. 3 Inst. 173.</note> the Great Seal, but of a Record of the Court of Chancery, or other Record duely removed thither by <hi>Certiorari &amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>Qu.</hi> 3. Whether part of a Record can be Ex<g ref="char:EOLhyphen"/>emplified?</p>
+                  <p>
+                     <hi>Res.</hi> No Exemplifica<g ref="char:EOLhyphen"/>tion ought to be of any <note place="margin">Co. 3. Inst. 173, &amp; 174.</note> part of a Letters Patents, or of any other Record, or of the Inrollment thereof, but the whole Record of the Inrollment thereof ought to be Exemplified, so that the whole Truth may appear, and not of such part, as makes for
+<pb n="79" facs="tcp:204618:42"/> the one Party, and no<g ref="char:EOLhyphen"/>thing, that makes against him, or that manifesteth the Truth.</p>
+                  <p>
+                     <hi>Qu.</hi> 4. How an Exem<g ref="char:EOLhyphen"/>plification of any Grant, Inrolled at the Rolls, is to be sued forth?</p>
+                  <p>
+                     <hi>Res.</hi> If any Grant which hath passed the Great Seal, be inrolled in the Roles, and you would have it Exemplified, you must first search in the Chappel of the Rolls for the Inrollment thereof, which being found, any Clerk of that Office may engross the same: then must you get it examined with the Inrollment, by two Masters of Chance<g ref="char:EOLhyphen"/>ry, who must testify the said Exemplification under
+<pb n="80" facs="tcp:204618:43"/> their hands, and then (it being ready for the Great Seal) you must bear the Docket thereof unto the Lord Chancellor, to ex<g ref="char:EOLhyphen"/>amine, and peruse the same, which being by his Lordship allowed, it may pass the Great Seal, and be exemplified. Thus much of the Diversity be<g ref="char:EOLhyphen"/>twixt a <hi>Constat, Inspexi<g ref="char:EOLhyphen"/>mus, Vidimus &amp;c.</hi> with other matters appertain<g ref="char:EOLhyphen"/>ing to Exemplifications. I go on now to mention the Eighth, and last thing proposed, <hi>viz.</hi> The Coun<g ref="char:EOLhyphen"/>terfeiting the Great Seal.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>8. Crimen Falsi or Coun<g ref="char:EOLhyphen"/>terfeiting the Great Seal.</head>
+                  <p>BY the Stat. of 25 <hi>E.</hi> 3. <hi>c.</hi> 2. <hi>de pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ditioni<g ref="char:EOLhyphen"/>bus,</hi>
+                     <pb n="81" facs="tcp:204618:43"/> it is declared, that if any man counterfeit the Kings Great Seal, it is <hi>Crimen laesae Majestatis Anglicanae,</hi> High Treason against the King; which Counterfeiting before this Act, was High Treason by the Common Law, as appeareth by our antient Lawyers, <hi>viz. Bracton, Fleta, Britton,</hi> and <hi>Horne,</hi> in his Mirror of Justices.</p>
+                  <p>A Compassing, Intent, <note place="margin">Co. 3 Inst. 15.</note> or going about, says <hi>Coke,</hi> to counterfeit the Great Seal is no Treason, but there must be an Actual Counterfeiting, also it must be to the Likeness of the Kings Great Seal; the words be, <hi>Counterface le Grand Seal le Roy.</hi>
+                  </p>
+                  <p>Now what shall be said
+<pb n="82" facs="tcp:204618:44"/> a Forging, or Counter<g ref="char:EOLhyphen"/>feiting this Broad Seal take these few Examples.</p>
+                  <p>If the Lord Chancellor, or Lord Keeper put the <note place="margin">Co. 3. Inst. 15.</note> Great Seal to a Charter &amp;c. without warrant, this is no Treason, because the Seal is not counterfeited. But it seemeth by <hi>Britton fol.</hi> 10. <hi>b.</hi> that it was Trea<g ref="char:EOLhyphen"/>son at the Common Law, and of that Opinion is <hi>Fle<g ref="char:EOLhyphen"/>ta f.</hi> 29. <hi>a.</hi> but it is no Treason now (without Question) by the negative Clause of the Act afore<g ref="char:EOLhyphen"/>said.</p>
+                  <p>If a man take wax Law<g ref="char:EOLhyphen"/>fully imprinted with the Great Seal from one Pa<g ref="char:EOLhyphen"/>tent, and fix it to a write<g ref="char:EOLhyphen"/>ing purporting a grant from the King, there have
+<pb n="83" facs="tcp:204618:44"/> been divers Opinions in this Case what the Of<g ref="char:EOLhyphen"/>fence is, which I shall re<g ref="char:EOLhyphen"/>hearse.</p>
+                  <p>In 40. Ass. which was <note place="margin">40. Ass. pl. 33.</note> about 15 years after the making of the Stat. of 25 <hi>E.</hi> 3. it was not holden High Treason, but a great Misprision, for that is no Counterfeiting of a new, but an abuse of the true Great Seal.</p>
+                  <p>A Chaplein had fixed a Great Seal to a Patent of <note place="margin">37 H. 8. Br. Trea<g ref="char:EOLhyphen"/>son.</note> Dispensation with <hi>Non Residence,</hi> and this was holden a Misprision, and not High Treason, for it was an abuse of the Great Seal, and no Counterfeit<g ref="char:EOLhyphen"/>ing of it.</p>
+                  <p>
+                     <hi>G. Leake,</hi> a Clerk of Chancery joyned two
+<pb n="84" facs="tcp:204618:45"/> clean Parchments fit for Letters Patents so close together with mouth glew, as they were taken for one, the uppermost being very thin, and did put one Labell through them both, then upon the uttermost he writ a true Patent, and got the Great Seal put to the Labell, and so the La<g ref="char:EOLhyphen"/>bell, and the Seal were annexed to both the Parchments, the one writ<g ref="char:EOLhyphen"/>ten, and the other Blank: He cut off the glewed Skirts round about, and took off the uppermost thin Parchment (which was written, and was a true, and perfect Patent) from the Labell, which with the Great Seal did still hang to the Parch<g ref="char:EOLhyphen"/>ment,
+<pb n="85" facs="tcp:204618:45"/> then he wrote a<g ref="char:EOLhyphen"/>nother Patent on the Blank Parchment, and did pub<g ref="char:EOLhyphen"/>lish it as a good Patent. Hereupon one of the Questions was, whether this Offence be High Treason, or no? And up<g ref="char:EOLhyphen"/>on Conference had be<g ref="char:EOLhyphen"/>tween the Judges, it was resolved by them, that this Offence was neither High Treason, nor Petit Trea<g ref="char:EOLhyphen"/>son, because it is not with<g ref="char:EOLhyphen"/>in either of the Branches of the Stat. of 25 <hi>E.</hi> 3. but it is a very great Misprision. Thus much of the Great Seal of <hi>England.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <pb n="86" facs="tcp:204618:46"/>
+               <head>
+                  <hi>II.</hi> Of the Privie Seal.</head>
+               <p>
+                  <hi>PArvum Sigillum,</hi> the Little, or Petit Seal, after called <hi>Privatum Si<g ref="char:EOLhyphen"/>gillum,</hi> the Privie Seal, is a Seal, that his most Sa<g ref="char:EOLhyphen"/>cred, and excellent Ma<g ref="char:EOLhyphen"/>jesty useth sometime for a warrant, whereby things passed the Privie Signet, and brought to it, are sent <note place="margin">Co. 2. Inst. 554.</note> further to be confirmed by the Great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> Sometime for the strength or Credit of o<g ref="char:EOLhyphen"/>ther things, written upon Occasions more Transi<g ref="char:EOLhyphen"/>tory, and of less conti<g ref="char:EOLhyphen"/>nuance, than those be that pass the Great Seal.</p>
+               <p>This Seal is in the Cu<g ref="char:EOLhyphen"/>stody of the Clerk of the <note place="margin">Coke Ibid.</note>
+                  <pb n="87" facs="tcp:204618:46"/> Privie Seal, called Keeper of the Privie Seal, after <note place="margin">Lib. 2. c. 13.</note> called Lord Privie Seal, of which great Officer <hi>Fleta</hi> saith thus: <hi>Custodi Sigilli privati associentur Clerici honesti, &amp; circum<g ref="char:EOLhyphen"/>specti, Domino Regi jurati, qui in Legibus &amp; Consue<g ref="char:EOLhyphen"/>tudinibus Anglicanis noti<g ref="char:EOLhyphen"/>tiam habent pleniorem, quo<g ref="char:EOLhyphen"/>rum Officium sit, supplicati<g ref="char:EOLhyphen"/>ones &amp; Querelas Conque<g ref="char:EOLhyphen"/>rentium andire, &amp; exami<g ref="char:EOLhyphen"/>nare, &amp; eis super qualita<g ref="char:EOLhyphen"/>tibus Injuriarum ostensa<g ref="char:EOLhyphen"/>rum, debitum Remedium exhibere per Brevia Regis:</hi> By this antient writer (says Sr. <hi>Ed. Coke)</hi> three things are worthy of Ob<g ref="char:EOLhyphen"/>servation: <hi>sc.</hi>
+               </p>
+               <p n="1">1. That the Clerks Associates to the Keeper
+<pb n="88" facs="tcp:204618:47"/> of the Privie Seal, are those we now call, Masters of Requests, <hi>Magistri à Libellis supplicum.</hi>
+               </p>
+               <p n="2">2. Of what Quality ought these Masters of Re<g ref="char:EOLhyphen"/>quests to be? They must have 3 Qualities:</p>
+               <p n="1">1. They must be ho<g ref="char:EOLhyphen"/>nest, and Circumspect.</p>
+               <p n="2">2. They must be sworn to the Lord our King.</p>
+               <p n="3">3. They must have a compleat, and full knowledge, or skill in the Laws, and Customs of this Realm.</p>
+               <p n="3">3. To what end did they hear, and examine the matters, conteined in these Petitions? That they (be<g ref="char:EOLhyphen"/>ing skilfull, and expert in the Laws) should direct
+<pb n="89" facs="tcp:204618:47"/> such as petitioned the King, to take their Re<g ref="char:EOLhyphen"/>medy, according to their Case, either at the Com<g ref="char:EOLhyphen"/>mon Law, or in the Court of Chancery.</p>
+               <p>Further: this Keeper of the privy Seal is a Lord by his Office, under whose hands pass all Charters signed by the King, be<g ref="char:EOLhyphen"/>fore they come to the Broad, or Great Seal of <hi>England,</hi> and he does be<g ref="char:EOLhyphen"/>sides his Oath of a Privie Counsellor, take a Parti<g ref="char:EOLhyphen"/>cular Oath of the Privie Seal, which doth consist of 4. parts, <hi>viz.</hi>
+               </p>
+               <p n="1">1. That he, as far forth as his cunning and di<g ref="char:EOLhyphen"/>scretion suffereth, justly, and evenly Execute and Exercise the Office of the
+<pb n="90" facs="tcp:204618:48"/> Keeper of the Kings Pri<g ref="char:EOLhyphen"/>vie Seal, to him by his Highness committed.</p>
+               <p n="2">2. Not leaving, or eschewing so to doe for Affection, Love, Meed, doubt, or Dread of any Person, or Persons.</p>
+               <p n="3">3. That he shall take special Regard, that the said Privie Seal in all Pla<g ref="char:EOLhyphen"/>ces, where he shall divert unto, may be in such sub<g ref="char:EOLhyphen"/>stantial wise used, and safe kept, that no Person without the Kings speci<g ref="char:EOLhyphen"/>al Commandment, or his Assent, or knowledg, shall move Seal, or imprint a<g ref="char:EOLhyphen"/>ny thing with the same.</p>
+               <p n="4">4. Generally, he shall observe, fulfil, and doe all, and every thing, which to the Office of the Keep<g ref="char:EOLhyphen"/>er
+<pb n="91" facs="tcp:204618:48"/> of the Kings Privie Seal duely belongeth, and appertaineth.</p>
+               <p>This is an Office, says <hi>Coke,</hi> of Great Trust, and Skill, that he put this Seal to no grant without good warrant, nor with war<g ref="char:EOLhyphen"/>rant, if it be against Law, undue or inconvenient, but that first he acquaint the King therewith.</p>
+               <p>Upon the Lord Privie Seal are Attendant four Clerks of the Privie Seal: They write, and make out all things, that be sent by warrant, from the Signet to the Privie Seal, and are to be passed to the Great Seal; as also to make out (as they term it) <note place="margin">Co. 2. Inst. 555. Co. 4. Inst. f. 55.</note> Privie Seals, upon any speciall Occasion of his
+<pb n="92" facs="tcp:204618:49"/> Majesties Affayrs, for Loan, or Lending of Money, or such Like.</p>
+               <p>What Fees these Clerks of the Privie Seal, and <note place="margin">27 <hi>H.</hi> 8. <hi>c.</hi> 11.</note> likewise of the Signet shall have, for their writing, and payns, appears by the Stat of 27 <hi>H.</hi> 8. whereby it is enacted, that every Clerk, and Clerks of the Signet, and Privie Seal shall have and take for the writing of a War<g ref="char:EOLhyphen"/>rant: <hi>sc.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1. Upon a Bill for <hi>Tales</hi> of Reward</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>2. For the gift of every Office</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>3. For a Pension, An<g ref="char:EOLhyphen"/>nuity, or wages</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>5. For a Special Livery or other Perpetuity</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                     </row>
+                     <pb n="93" facs="tcp:204618:49"/>
+                     <row>
+                        <cell>5. Upon every Bill for <hi>Conge D'eslyer,</hi> Royal As<g ref="char:EOLhyphen"/>sent, Restitution of Tem<g ref="char:EOLhyphen"/>poralties, Donatives, Ad<g ref="char:EOLhyphen"/>vocations, Presentations, or other Ecclesiastical matter</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>6. For the writing of every warrant upon a Placard, License, Pardon, or Sheriffs Reward</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>7. For the writing of every warrant on a Deni<g ref="char:EOLhyphen"/>zen</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>8. For the writing of a warrant for keeping an Ideot</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>9 For the writing of a warrant for keeping of a ward</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Thus much of the grand Person, to whom
+<pb n="94" facs="tcp:204618:50"/> this Privie Seal is delive<g ref="char:EOLhyphen"/>red, his Associates, and his Attendants; I now proceed to rehearse the Law of <hi>England,</hi> that is found in our Books, touch<g ref="char:EOLhyphen"/>ing the Privie Seal it self: <hi>viz.</hi> what matters are a<g ref="char:EOLhyphen"/>vayleable, and what not under it.</p>
+               <div n="1" type="section">
+                  <head>1. Essoyn or Protection.</head>
+                  <p>No Essoyn <hi>de servitio Regis,</hi> or Protection is avayleable under the Kings Privie Seal alone. <hi>Co.</hi> 2. <hi>Inst. f.</hi> 555.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. Money.</head>
+                  <p>A warrant of the King <note place="margin">Co. Lib. 11. Earl of Devon<g ref="char:EOLhyphen"/>shires Case.</note> under the Privie Seal to Issue out Money out of
+<pb n="95" facs="tcp:204618:50"/> his Coffers is sufficient, be<g ref="char:EOLhyphen"/>cause <note place="margin">Co Lib: Lanes Case.</note> it concerneth but a Chattel in possession; but the Privie Seal is not a sufficient warrant for in<g ref="char:EOLhyphen"/>heritances, nor Chattels Reals, but only for Chat<g ref="char:EOLhyphen"/>tels Personals, as Money, &amp;c. <hi>Moores</hi> Reports the Queen v. <hi>Dodington f.</hi> 476.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3. Matters of small Mo<g ref="char:EOLhyphen"/>ment.</head>
+                  <p>In Matters of small Moment, and which can work no Delay to the Subject, the Privie Seal is sufficient, as to grant a <hi>supersedeas</hi> of a process in the Kings own Case, or to grant a <hi>Nisi Prius,</hi> where the King is Party, or to allow a Plea against
+<pb n="96" facs="tcp:204618:51"/> the King, to Cancel a Re<g ref="char:EOLhyphen"/>cognizance made to the King, to discharge a Debt, or the like. <hi>Co. Lib.</hi> 2. <hi>Lanes</hi> Case.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>4. An Atturney.</head>
+                  <p>The King may grant one to make an Atturney by his Letters Patents un<g ref="char:EOLhyphen"/>der the Privie Seal. 37 <hi>H.</hi> 6. 27. <hi>b.</hi>
+                  </p>
+               </div>
+               <div n="5" type="section">
+                  <head>5. Peregrination.</head>
+                  <p>The King may grant License to Travel beyond the Seas under the Privie Seal, and may command Persons that are beyond Seas, by his writ under the Privie Seal, in <hi>Fide &amp; Ligeantia &amp;c.</hi> to return
+<pb n="97" facs="tcp:204618:51"/> into the Kingdom, and if they return not, for their Contempt their Lands and Goods shall be seised, <hi>Quousque &amp;c. Co.</hi> 3. <hi>Inst. f.</hi> 179, <hi>&amp;</hi> 180.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>6. Absence from Parlia<g ref="char:EOLhyphen"/>ment.</head>
+                  <p>The Kings License to a Lord of Parliament to be absent, and to make <hi>Pro<g ref="char:EOLhyphen"/>xies,</hi> may be under the privie Seal.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>7. The process of the Dutchey.</head>
+                  <p>The Process in the Court of the Dutchey Chamber is by Privie Seal, Attachment &amp;c. <hi>Co.</hi> 4. <hi>Inst. f.</hi> 206.</p>
+               </div>
+               <div n="8" type="section">
+                  <pb n="98" facs="tcp:204618:52"/>
+                  <head>8. Summons to the Great Council.</head>
+                  <p>The Summons to the Great Council (i. e. the Lords of Parliament) after King <hi>E.</hi> 3. have been under the Privie Seal. <hi>Elsing.</hi>
+                  </p>
+               </div>
+               <div n="9" type="section">
+                  <head>9. Precedency.</head>
+                  <p>Amongst the Kings Lear<g ref="char:EOLhyphen"/>ned Council at Law a Privie Seal is sufficient to give Precedency. <hi>Cro.</hi> 3. part. <hi>f.</hi> 376.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>10. Dutchey Land.</head>
+                  <p>It was said by the Court, that a grant of an Office▪ of keeping the Courts of the Dutchey Land by Pri<g ref="char:EOLhyphen"/>vie
+<pb n="99" facs="tcp:204618:52"/> Seal, is not good; but it ought to be by the Dutchey Seal. <hi>Noys Reports,</hi> Lord <hi>Willoughby v. Kemp.</hi>
+                  </p>
+               </div>
+               <div n="11" type="section">
+                  <head>11. Sheriffs of London in Debt.</head>
+                  <p>1 E. 4. 14. inter Bre<g ref="char:EOLhyphen"/>via coram Baronibus, lou les viscounts Londres voy<g ref="char:EOLhyphen"/>lent aver eux excuse de 14. expose per Commandment le Roy south son signet, &amp; non potuerunt, mes fuerunt chase al Privie Seal.</p>
+               </div>
+               <div n="12" type="section">
+                  <head>12. The Kings Treasure.</head>
+                  <p>A Privie Seal is not suf<g ref="char:EOLhyphen"/>ficient Authority to dis<g ref="char:EOLhyphen"/>pose of the Kings Trea<g ref="char:EOLhyphen"/>sure, unless where it be due, as appears by this
+<pb n="100" facs="tcp:204618:53"/> following Case.</p>
+                  <p>An Information in the Exchequer, in the nature of an Accompt, was brought against <hi>Dodington,</hi> as Ex<g ref="char:EOLhyphen"/>ecutor of Sr. <hi>Walter Mild<g ref="char:EOLhyphen"/>may,</hi> supposing that Sr. <hi>Walter</hi> had received money of the Queen, amounting to 1500 l. upon speciall verdict the Case was, that Sr. <hi>Walter Mild<g ref="char:EOLhyphen"/>may</hi> had recived annually out of the Exchequer 50 l. <note place="margin">Cro. 1. part Doding<g ref="char:EOLhyphen"/>tons Case.</note> as a Fee for his Dyet for 30 years together, which was payd him by the Command of the Lord Treasurer, who had Au<g ref="char:EOLhyphen"/>thority by Privie Seal, to make Allowance, and payment of the Fees due; But in Truth these were not any Fees due: And
+<pb n="101" facs="tcp:204618:53"/> whether his Executor shall be charged with these summs so received was the Question. And after Argument it was ad<g ref="char:EOLhyphen"/>judged, that he should be charged, for it was held, that this payment of the money by the appoynt<g ref="char:EOLhyphen"/>ment of the Lord Treasu<g ref="char:EOLhyphen"/>rer, was not allowable: For the Privie Seal is not sufficient Authoritie to dis<g ref="char:EOLhyphen"/>pose of the Q. Treasure, unless where it is due, and he disposing it otherwise, it is out of his Authoritie; And therefore the Exe<g ref="char:EOLhyphen"/>cutors ought to refund. Thus much of the Privie Seal, as we find in our Books of Law; I come to mention some Statutes.</p>
+                  <pb n="102" facs="tcp:204618:54"/>
+                  <p> It is said, that <hi>Desouth le petit Seal, ne issera de<g ref="char:EOLhyphen"/>sormes nul Brief que touche le Common Ley:</hi> But the Act saith not, that all <note place="margin">Art. super Chartas c. 6.</note> writs, which concern the Common Law shall pass under the Great Seal, but no writ shall pass un<g ref="char:EOLhyphen"/>der the Privie Seal, which touches the Common Law; For it is to be known, that the Courts of Kings Bench, and of the Com<g ref="char:EOLhyphen"/>mon Pleas had at the making of the Statute se<g ref="char:EOLhyphen"/>veral Seals, whereby they sealed Judicial writs.</p>
+                  <p>Wee find a Petition of the Commons in 2 <hi>H.</hi> 4. that no writs, or Privie Seals be sued out of the Chancery, Exchequer, or <note place="margin">Rot. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ar. 2 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 4. nu. 69.</note> other Place, to any man
+<pb n="103" facs="tcp:204618:54"/> to appear upon a Pain &amp;c. to answer &amp;c. contrary to the Ordinary Course of the Common Law: where<g ref="char:EOLhyphen"/>unto the King answered, that such writs should not be granted without necessitie.</p>
+                  <p>By an Act of Parlia<g ref="char:EOLhyphen"/>ment <note place="margin">Rot. Par. Anno 28 E. 3. nu. 34.</note> not in Print, it is enacted that no Purvey<g ref="char:EOLhyphen"/>or arrested for any misde<g ref="char:EOLhyphen"/>meanor shall have any Privie Seal, to cause such as arrested him to come before the Council, to answer the King, but have his Remedy by the Com<g ref="char:EOLhyphen"/>mon Law.</p>
+                  <p>By the Stat. of 11 <hi>R.</hi> 2. <hi>c.</hi> 10. it is provided, that Letters of the Privie Seal shall not be from henceforth sent in Da<g ref="char:EOLhyphen"/>mage
+<pb n="104" facs="tcp:204618:55"/> or prejudice of the Realme, or in disturbance of the Law.</p>
+                  <p>By the Stat. of 25 <hi>E.</hi> 3. c. 2. it is declared, and enact<g ref="char:EOLhyphen"/>ed, <note place="margin">Co. 3. Inst. f. 16.</note> that the Counterfeit<g ref="char:EOLhyphen"/>ing the Kings Privie Seal is High Treason: This Statute naming the Great and Privie Seal, the Forg<g ref="char:EOLhyphen"/>ing, and Counterfeiting the Privie Signet, or of the Sign Manual, was not within this Statute: But by the Stat. of 1 <hi>Mar.</hi> it is made High Treason in both Cases. Thus much of the Kings Privie Seal.</p>
+               </div>
+            </div>
+            <div n="3" type="part">
+               <pb n="105" facs="tcp:204618:55"/>
+               <head>
+                  <hi>III.</hi> Of the Exchequer Seal.</head>
+               <p>THe Seal belonging to the Court of Ex<g ref="char:EOLhyphen"/>chequer is in the Custody of the Chancellor, of whom these following, Authors speak thus: <hi>sc.</hi>
+               </p>
+               <p n="1">1. <hi>Fleta: Officium Can<g ref="char:EOLhyphen"/>cellarii est Sigillum Regis custodire simul cum Contra<g ref="char:EOLhyphen"/>rotulis de proficuo Regni.</hi>
+                  <note place="margin">Lib. 2. C. 29.</note>
+               </p>
+               <p n="2">2. <hi>Ockam: Ad Can<g ref="char:EOLhyphen"/>cellarium Scaccarii pertinet Custodia Sigilli Regis.</hi>
+               </p>
+               <p n="3">3. <hi>Plowden: L'eschequer ad Chancellor &amp; Seal &amp; les Briefes usuall en le</hi>
+                  <note place="margin">Com. f. 321. a In<g ref="char:EOLhyphen"/>formation pur Mines.</note>
+                  <hi>Chancery en L'eschequer de seiser le Terre en tiel Case, lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t pluis an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ient, que le</hi>
+                  <pb n="106" facs="tcp:204618:56"/>
+                  <hi>Register, ou le Treatise Praerogativa Regis:</hi> The Exchequer hath a Chan<g ref="char:EOLhyphen"/>cellor, and Seal, and the writs usual in the Chance<g ref="char:EOLhyphen"/>ry of the Exchequer, are more antient than <hi>Praero<g ref="char:EOLhyphen"/>gativa Regis.</hi>
+               </p>
+               <p n="4">4. <hi>Minshaeus:</hi> The Of<g ref="char:EOLhyphen"/>fice of the Chancellor of the Exchequer hath been thought by many, for the qualifying of the Extremities in the Exche<g ref="char:EOLhyphen"/>quer: He sitteth in the Court, and in the Exche<g ref="char:EOLhyphen"/>quer Chamber, and with the rest of the Court or<g ref="char:EOLhyphen"/>dereth things to the Kings benefit: he is always in Commission with the Lord Treasurer, for the Letting of the Lands, that come to the Crown by the
+<pb n="107" facs="tcp:204618:56"/> Dissolution of Abbeys; and hath by Privie Seal from the King, power with others, to compound for Forfeiture of Bonds, and Forfeitures of Pe<g ref="char:EOLhyphen"/>nall Statutes. He hath also much to doe in the Re<g ref="char:EOLhyphen"/>venue come by the Disso<g ref="char:EOLhyphen"/>lution, and First Fruits, as appeareth by the Acts and Statutes of uniting them to the Crown.</p>
+               <p>Thus much of the Of<g ref="char:EOLhyphen"/>fice, and Antiquity of the Chancellor: I proceed to shew the Law of <hi>England,</hi> relating to the Exchequer Seal it Self, that is in the Custody of the Chancel<g ref="char:EOLhyphen"/>lor. And we find, that this Seal is an Incident inseparable to the Court of Exchequer, for the Seal<g ref="char:EOLhyphen"/>ing
+<pb n="108" facs="tcp:204618:57"/> of all Judicial Writs, &amp;c. which for Admini<g ref="char:EOLhyphen"/>stration of Justice Distri<g ref="char:EOLhyphen"/>butive to all men, are un<g ref="char:EOLhyphen"/>der the said Seal, and with<g ref="char:EOLhyphen"/>out which the Court can<g ref="char:EOLhyphen"/>not administer Justice: And therefore the pro<g ref="char:EOLhyphen"/>fits, coming of this Seal, as of other Seals, belong<g ref="char:EOLhyphen"/>ing to other Courts, have been letten, and demised of antient and latter times, but the Seals them<g ref="char:EOLhyphen"/>selves were never demised, <note place="margin">Co. 2. Inst. 555.</note> or letten, nor could be, nor any other Keeper ap<g ref="char:EOLhyphen"/>poynted to be Keeper of them, than hath been time out of mind. Now what shall pass under the Ex<g ref="char:EOLhyphen"/>chequer Seal, or what shall be avayleable un<g ref="char:EOLhyphen"/>der it, take these sub<g ref="char:EOLhyphen"/>sequent
+<pb n="109" facs="tcp:204618:57"/> Cases and Au<g ref="char:EOLhyphen"/>thorities, found in our Books of Law.</p>
+               <p>The Queen seised of a Mannor in the Right of her Crown, by her Stew<g ref="char:EOLhyphen"/>ard granted Copyhold Lands parcell thereof to one by Copy, according to the Custome in Fee: And after the Queen under the Exchequer Seal, made a Lease of the same Lands to another for 21 years &amp;c. Resolved, that the Lease under the Ex<g ref="char:EOLhyphen"/>chequer Seal was good, by usage there, for the Course of every Court is <note place="margin">Co. Lib. 2. Lanes Case.</note> as a Law, of which the Common Law takes no<g ref="char:EOLhyphen"/>tice without alledging of it in pleading. And as the Court of Exchequer
+<pb n="110" facs="tcp:204618:58"/> may demise the Kings Lands for years under its Seal, so it can also demise for Life, although by the Common Law, no grant of any Land is avayleable, or pleadable, but under the Great Seal of <hi>England,</hi> as hath been said; And therefore in the Case be<g ref="char:EOLhyphen"/>twixt <hi>Kemp &amp; Barnard,</hi> upon a special verdict, the Question was, whe<g ref="char:EOLhyphen"/>ther a Lease by the King under the Exchequer Seal of Lands usually demised to one for Life, Remain<g ref="char:EOLhyphen"/>der for Life, Remainder <note place="margin">Cro. 3. part. f. 513. in Banco Regis.</note> to a third for Life, re<g ref="char:EOLhyphen"/>serving the usuall Rent, shall be good or not? <hi>Maynard</hi> for the Defen<g ref="char:EOLhyphen"/>dant very much urged, that it could not be, but
+<pb n="111" facs="tcp:204618:58"/> under the Great Seal; For a Freehold cannot pass from the King, but by Patent under the Great Seal. But all the Justices held, that Leases for Life under the Exchequer Seal, being of Lands usually Leased, and reserving the antient Rent, are al<g ref="char:EOLhyphen"/>lowable: It being good for the Kings Benefit, that his Land shall not lye unletten. And <hi>Jones</hi> affirmed, that all the Ba<g ref="char:EOLhyphen"/>rons of the Exchequer said, that it was their Course to demise as well for Life as for years, and it hath always been so allowed, and of their Course there this Court shall take Conusance.</p>
+               <p>Upon Demurrer Questi<g ref="char:EOLhyphen"/>on
+<pb n="112" facs="tcp:204618:59"/> was made, wether a Lease of a Mannor being forfeited to the Queen by Attaynder of Treason, may be granted under the Ex<g ref="char:EOLhyphen"/>chequer Seal. <hi>Popham:</hi> If any Mannor, or Land, of what<g ref="char:EOLhyphen"/>soever value comes to the King by Attaynder, or o<g ref="char:EOLhyphen"/>therwise, the Custody thereof may be granted over, under the Exche<g ref="char:EOLhyphen"/>quer Seal, by the Autho<g ref="char:EOLhyphen"/>rity of the Lord Treasu<g ref="char:EOLhyphen"/>rer, and Chancellor there, without speciall warrant: For it is but a disposing of the Profits, because the King himself cannot ma<g ref="char:EOLhyphen"/>nure it; And it is always Revocable, <hi>Si quis plus dare voluerit:</hi> So a Lease for years of anothers Land, which comes to the
+<pb n="113" facs="tcp:204618:59"/> King by Attaynder, is but a Chattell in him, and vendable for his best pro<g ref="char:EOLhyphen"/>fit, and therefore it is grantable under the Ex<g ref="char:EOLhyphen"/>chequer Seal; For it is as a Sale wherefore the grant is good, and to that Opi<g ref="char:EOLhyphen"/>nion the other Justices a<g ref="char:EOLhyphen"/>greed.</p>
+               <p>An Office found by In<g ref="char:EOLhyphen"/>quisition, <note place="margin">Co. Lib 5. Knights Case.</note> by vertue of a Commission, under the Exchequer Seal, is suffi<g ref="char:EOLhyphen"/>cient to intitle the King to a Chattell. <note place="margin">Co. Lib. 5. Pages Case. Cro. 3. part Grosse v. Gayer.</note>
+               </p>
+               <p>An Office of Instructi<g ref="char:EOLhyphen"/>on or Information may be under the Exchequer Seal.</p>
+               <p>Seasonable Woods with<g ref="char:EOLhyphen"/>in the Kings Forests, or <note place="margin">Co 4. Inst. f. 299.</note> Timber for his Majesties use, may be sold or taken
+<pb n="114" facs="tcp:204618:60"/> as well by force of the Exchequer Seal, as the Great Seal.</p>
+               <p>Note: It was said by the whole Court for Law, <note place="margin">16 <hi>H.</hi> 7. 11. b Co. Litt. 260. a.</note> that a man may well say a<g ref="char:EOLhyphen"/>gainst a Record, certified under the Seal of the Ex<g ref="char:EOLhyphen"/>chequer, or Common Banke, <hi>Nul Tiel Record,</hi> because that is nothing but a <hi>Transcript</hi> of the Re<g ref="char:EOLhyphen"/>cord: But to Letters Pa<g ref="char:EOLhyphen"/>tents (as it hath been said before) under the Great Seal, a man cannot plead <hi>Nul Tiel Record.</hi>
+               </p>
+               <p>Know likewise Reader▪ that of small things, Lea<g ref="char:EOLhyphen"/>ses are wont to be made under the Exchequer Seal, as appears by many an<g ref="char:EOLhyphen"/>tient Precedents, before, and in the time of <hi>Ed.</hi> 3.
+<pb n="115" facs="tcp:204618:60"/> and by Infinite Precedents since to this day; And such Leases made accord<g ref="char:EOLhyphen"/>ing to the said Precedents were allowed to be good: And there were 3. Causes of the Commencement of this usage:</p>
+               <p n="1">1. For the multiplici<g ref="char:EOLhyphen"/>ty, that every poor man should be driven, for such infinite number of Leases, to sue to the King for Cot<g ref="char:EOLhyphen"/>tages, and other petty things, to pass by the Sig<g ref="char:EOLhyphen"/>nature of the King, the Signet, the Privie Seal, and the Great Seal.</p>
+               <p n="2">2. For necessity; lest a poor and indigent sub<g ref="char:EOLhyphen"/>ject should be driven to a tedious Suit, and the Land will lye many times without a Tenant, to the
+<pb n="116" facs="tcp:204618:61"/> Kings Damage.</p>
+               <p n="3">3. For the Impossibi<g ref="char:EOLhyphen"/>litie, because many times the subject was not able, nor the thing demised was not of value to pass the Great Seal: but to them that are Rich, <hi>Cokes</hi> advice is, to pass their Leases under the Great Seal, for this, says he, is a sure way.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="117" facs="tcp:204618:61"/>
+               <head>
+                  <hi>IV.</hi> Of the Signet.</head>
+               <p>THis Seal is in the Custody of the Prin<g ref="char:EOLhyphen"/>cipall Secretary, as well for Sealing his Majesties private Letters, as also such grants as pass the Kings Hands by Bill as<g ref="char:EOLhyphen"/>signed; And there are four Clerks of the Signet, cal<g ref="char:EOLhyphen"/>led <hi>Clerici. Signeti,</hi> at<g ref="char:EOLhyphen"/>tending on this Secretary in their Course, and were used to have their Dyet at his Table.</p>
+               <p>The Duty of these Clerks, is to write out such grants, or Letters Patents, as pass by Bill signed (that is, a Bill su<g ref="char:EOLhyphen"/>perscribed with the Signa<g ref="char:EOLhyphen"/>ture,
+<pb n="118" facs="tcp:204618:62"/> or signe Manual, or Royal Hand of the King) to the Privie Seal, which Bill being transcribed, and Sealed with the Signet is a warrant to the Privie Seal, and the Privie Seal is a warrant to the Great Seal, Such was the wisdome <note place="margin">Co. 2. Inst. f. 556.</note> (says Sr. <hi>Ed. Coke)</hi> that whatsoever should pass the Great Seal, should come through so many hands, to the end that nothing should pass that Great Seal, that is so highly e<g ref="char:EOLhyphen"/>steemed, and accounted of in Law, that was a<g ref="char:EOLhyphen"/>gainst Law, or inconveni<g ref="char:EOLhyphen"/>ent, or that any thing should pass from the King any ways, which he inten<g ref="char:EOLhyphen"/>ded not, by undue, and surreptitious means. But
+<pb n="119" facs="tcp:204618:62"/> it is to be observed, that when any Act of Parliament doth Authorise the Lord Chancellor, or Lord Keep<g ref="char:EOLhyphen"/>er, <note place="margin">Co. 4. Inst. f. 167.</note> to make, or grant a<g ref="char:EOLhyphen"/>ny Commission, under the Great Seal, that he may make or grant the same without any further war<g ref="char:EOLhyphen"/>rant, because the King is Party to the Act of Parliament, and there can<g ref="char:EOLhyphen"/>not be a greater warrant to the Lord Chancellor, than an Act of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Now of the Signet the <note place="margin">Co. Lib. 2. Lanes Case Co. 2 Inst. f. 556.</note> Law in some Cases taketh Notice; And therefore a <hi>Ne exeat Regnum</hi> may be as well under the Signet, as under the Great Seal; or in this Case the Sub<g ref="char:EOLhyphen"/>ject ought to take notice,
+<pb n="120" facs="tcp:204618:63"/> as well of the Signet, as of the Great, or Privie Seal; Because this is but a Signification of the Kings Commandment, and no<g ref="char:EOLhyphen"/>thing passes from him.</p>
+               <p>The King may grant License to travell beyond the Seas under the Sig<g ref="char:EOLhyphen"/>net, <note place="margin">Co. 3. Inst. f. 180.</note> but he cannot recall one that is beyond Seas by the Signet, but it must be by the Great, or Privie Seal: but note, that the <note place="margin">Dyer. Hill. 2 Eliz. f. 176. 10. <hi>H.</hi> 4. 5.</note> Letters under the Great Seal, or Privie Seal to re<g ref="char:EOLhyphen"/>call any from beyond Seas, ought to be served by some Messenger, who up<g ref="char:EOLhyphen"/>on his Oath, is to make a Certificate thereof in the Chancery, and from thence a <hi>Mittimus</hi> to be sent in<g ref="char:EOLhyphen"/>to the Exchequer, and
+<pb n="121" facs="tcp:204618:63"/> thereupon a Commission to be granted, to seise the Lands, and Goods of the Delinquent.</p>
+               <p>A warrant under the Sig<g ref="char:EOLhyphen"/>net <note place="margin">Co. 4. Inst. f. 116. Co. Lib. 2. Lanes Case.</note> is not sufficient to issue any Treasure of the King out of the Receipt, but it must be under the Great, or Privie Seal, as is said before.</p>
+               <p>A Discharge under the <note place="margin">Co. Lib. 2. Lanes Case.</note> Privie Signet of a Debt due by the Sheriff was held not sufficient, but he ought to have it under the Privie Seal, and then it is a good discharge in Law.</p>
+               <p>This may suffice touch<g ref="char:EOLhyphen"/>ing the Kings 4 principall Seals, of which our Com<g ref="char:EOLhyphen"/>mon Law doth take espe<g ref="char:EOLhyphen"/>ciall notice: I shall now
+<pb n="122" facs="tcp:204618:64"/> put a period to this small Tract, with a Demonstra<g ref="char:EOLhyphen"/>tion of the Manner (be<g ref="char:EOLhyphen"/>sides what has been men<g ref="char:EOLhyphen"/>tioned already) how things pass the 3 Seals, <hi>viz.</hi> The Great Seal, the Privie Seal, and the Sig<g ref="char:EOLhyphen"/>net.</p>
+               <p>Concerning the Kings Letters Patents, this is the Course, saith an Au<g ref="char:EOLhyphen"/>thor, in his discourse of the High Court of Chan<g ref="char:EOLhyphen"/>cery: <hi>viz.</hi> If the Letters Patents pass by the Bill signed without any Privie Seal, the Patent is sub<g ref="char:EOLhyphen"/>scribed <hi>per ipsum Regem,</hi> and then the Bill signed remaineth with the Lord Chancellor for his warrant. And when it passeth by Bill signed, and Privie
+<pb n="123" facs="tcp:204618:64"/> Seal also, then the Privie Seal remaineth with the Lord Chancellor, and the Bill signed with the Clerk of the Signet, and the Lord Privie Seal hath an Extract of it, to make the Privie Seal by, and then the Letters Patents are sub<g ref="char:EOLhyphen"/>scribed <hi>per Breve de priva<g ref="char:EOLhyphen"/>to sigillo.</hi> And if <hi>per Au<g ref="char:EOLhyphen"/>thoritatem Parliamenti</hi> be added, then it must pass according to the Statute of 27 <hi>H.</hi> 8. <hi>c.</hi> 11. And when the King signeth the Patents himself in the up<g ref="char:EOLhyphen"/>per part, and the Signa<g ref="char:EOLhyphen"/>ture, and the Great Seal do pass together at one and the same time, then it is subscribed <hi>per ipsum Regem manu suâ propriâ,</hi> And when it is made by
+<pb n="124" facs="tcp:204618:65"/> Authority o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Parliament, then 'tis subscribed <hi>per ip<g ref="char:EOLhyphen"/>sum Regem, et totum Con<g ref="char:EOLhyphen"/>cilium in Parliamento,</hi> or to the same Effect. <hi>Co. Lib.</hi> 8. The Princes Case.</p>
+               <p>Every warrant sent by the King to the Lord Chancellor, the Day of the Delivery of the same to the Chancellor shall be entred of Record in the Chancery, and the Chan<g ref="char:EOLhyphen"/>cellor shall cause Letters Patents to be made upon the same warrant, bear<g ref="char:EOLhyphen"/>ing date the day of the Delivery in the Chance<g ref="char:EOLhyphen"/>ry, and not before in any wise: And if any Letter Patents be from thence<g ref="char:EOLhyphen"/>forth made to the Contra<g ref="char:EOLhyphen"/>ry, they shall be void, and holden for none by
+<pb n="125" facs="tcp:204618:65"/> the Stat. 18 <hi>H.</hi> 6 <hi>c.</hi> 1. And for the full exposition of this Statute, see <hi>Ludford</hi> and <hi>Grettons</hi> Case in <hi>Plowdens Commentaries,</hi> and <hi>Dyer, f.</hi> 133. From the Stat. of 18 <hi>H.</hi> 6. I proceed to re<g ref="char:EOLhyphen"/>cite the very words of the Stat. of 27 <hi>H.</hi> 8. <hi>c.</hi> 11. that does direct, how, and in what manner, the Kings Grants, Writings, and Lea<g ref="char:EOLhyphen"/>ses shall at this day pass the 3 aforesaid Seals.</p>
+               <p>It is enacted, that e<g ref="char:EOLhyphen"/>very Gift, Grant, or o<g ref="char:EOLhyphen"/>ther writing which shall be made in writing by the Kings Highness or any of his most noble Posterity, to any person, signed with his Graces signe, or the signe, or signes Ma<g ref="char:EOLhyphen"/>nual of any of them, to be
+<pb n="126" facs="tcp:204618:66"/> passed under the Great Seal of <hi>England,</hi> shall be brought, and delivered to the Kings Principal Secre<g ref="char:EOLhyphen"/>tary, or to one of the Clerks of the signet for the time being, to be at the Office of the sig<g ref="char:EOLhyphen"/>net passed accordingly. Likewise that one of the Clerks of the Signet, to whom any of the said writings signed with the Kings Hand, fortune to be delivered, shall by war<g ref="char:EOLhyphen"/>rant of the same Bills, within the space of 8 days, next after he shall have received the same, unless he have knowledge by the said Secretary, or o<g ref="char:EOLhyphen"/>therwise of the Kings Pleasure to the Contrary, cause to be made in the
+<pb n="127" facs="tcp:204618:66"/> Kings name, Letters of warrant, subscribed with the hand of the same Clerk, and sealed with the Kings Signet, to the Lord Keeper of the Kings Privie Seal, for further Process to be had on that behalf. And that one of the Kings Clerks of the Privie Seal, upon due ex<g ref="char:EOLhyphen"/>amination had, by the said Lord Keeper, of the said warrant addressed to him from the Office of the Signet, shall within the space of 8 days, next af<g ref="char:EOLhyphen"/>ter he shall receive the same, unless the Lord Keeper of the Privie Seal do give them Command<g ref="char:EOLhyphen"/>ment to the Contrary, make, or cause to be made by warrant of the afore<g ref="char:EOLhyphen"/>said
+<pb n="128" facs="tcp:204618:67"/> warrant to the Lord Keeper of the Privie Seal, other Letters of like warrant, subscribed with the name of the Clerke of the Privie Seal, to the Lord Chancellor, or Lord Keeper of the Great Seal, for the ensealing with it the said Grants &amp;c. of the King, according to the Tenor of the war<g ref="char:EOLhyphen"/>rant to the Lord Chancel<g ref="char:EOLhyphen"/>lor, directed from the Of<g ref="char:EOLhyphen"/>ficer of the Privie Seal, as is aforesaid specified.</p>
+               <p>Thus Reader, having presented to thy view what I have met withall in our Books of Law, touching these 4 Seals, <hi>viz</hi> The Great Seal, the Privie Seal, the Exchequer Seal, and the Signet, I conclude
+<pb n="129" facs="tcp:204618:67"/> my mean Collections with these words: <hi>sc.</hi>
+               </p>
+               <p>
+                  <hi>Ego seram Immortalita<g ref="char:EOLhyphen"/>tem precor supremo sigillo<g ref="char:EOLhyphen"/>rum Domino, Regi nostro Augustissimo, Carolo à Ca<g ref="char:EOLhyphen"/>rolo, ut vita diuturna sit, &amp; aeterna majestas.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:204618:68"/>
+            <head>THE TABLE.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>I. OF the Great or Broad Seal of</hi> England</cell>
+                     <cell>
+                        <hi>Pag.</hi> 2</cell>
+                  </row>
+                  <row>
+                     <cell>1 The Etymologie of the word Chancellor</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>2 The Antiquity of this Officer</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>3 His Creation</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>4 His Qualifications</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>5 His Duty</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>6 His Jurisdiction power and Authority</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>7 His honour and prece<g ref="char:EOLhyphen"/>dency</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>8 His priviledges</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>9 His Assistants</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>10 His Attendants</cell>
+                     <cell>31</cell>
+                  </row>
+                  <pb facs="tcp:204618:68"/>
+                  <row>
+                     <cell>1 What the Seal is</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell>2 The Antiquity of Seal<g ref="char:EOLhyphen"/>ing</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>3 <hi>Sigillum Regis,</hi> what</cell>
+                     <cell>35</cell>
+                  </row>
+                  <row>
+                     <cell>4 The Pleading a thing under the Great Seal</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>5 What things ought to pass the Great Seal</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>1 Auditors</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2 Summons in Parlia<g ref="char:EOLhyphen"/>ment</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>3 Kings Treasure</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4 An Office of Intitle<g ref="char:EOLhyphen"/>ing</cell>
+                     <cell>45</cell>
+                  </row>
+                  <row>
+                     <cell>5 Reteiner</cell>
+                     <cell>47</cell>
+                  </row>
+                  <row>
+                     <cell>6 Private Acts</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>7 Essoyn and Protection</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>8 Travelling beyond Seas</cell>
+                     <cell>49</cell>
+                  </row>
+                  <row>
+                     <cell>9 Guardians of England</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>10 Steward of England</cell>
+                     <cell>50</cell>
+                  </row>
+                  <pb facs="tcp:204618:69"/>
+                  <row>
+                     <cell>11 Person accused of Treason</cell>
+                     <cell>51</cell>
+                  </row>
+                  <row>
+                     <cell>12 A Ward</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>13 Claimes before a Co<g ref="char:EOLhyphen"/>ronation</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>14 President of the Coun<g ref="char:EOLhyphen"/>cil</cell>
+                     <cell>53</cell>
+                  </row>
+                  <row>
+                     <cell>15 Riots, Extortions &amp;c.</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>16 Redress of delays</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>17 Judges discharged</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>18 Process in Star-Cham<g ref="char:EOLhyphen"/>ber</cell>
+                     <cell>55</cell>
+                  </row>
+                  <row>
+                     <cell>19 The Office of the Trea<g ref="char:EOLhyphen"/>surer</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>20 Lands in the Kings hands</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>21 Untrue Accompts in the Exchequer</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>22 Armes, Sirname, and Barony</cell>
+                     <cell>57</cell>
+                  </row>
+                  <row>
+                     <cell>23 Tryal of Treasons &amp;c.</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>24 Beacons, Light-houses,
+<pb facs="tcp:204618:69"/> Sea-marks</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>25 Sewers</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>26 Bankrupts</cell>
+                     <cell>59</cell>
+                  </row>
+                  <row>
+                     <cell>27 The Isles of Jersey and Man &amp;c.</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>28 Commissioners in Cau<g ref="char:EOLhyphen"/>ses Ecclesiastical</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>29 Delegats</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>30 Pardoning part of Judgement</cell>
+                     <cell>61</cell>
+                  </row>
+                  <row>
+                     <cell>31 Prorogation of Parli<g ref="char:EOLhyphen"/>ament</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>32 Royal Assent</cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell>33 Justice in Eyre</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>34 Forrests Woods</cell>
+                     <cell>63</cell>
+                  </row>
+                  <row>
+                     <cell>35 The proceedings of the Parliament in Ireland</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>36 The Isle of man</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>37 The Kings Grant of Lands</cell>
+                     <cell>65</cell>
+                  </row>
+                  <row>
+                     <cell>6 The Remedy to have things under the Great Seal</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>7 The difference betwixt
+<pb facs="tcp:204618:70"/> a <hi>Constat, Inspeximus</hi> and <hi>Vidimus</hi>
+                     </cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell>8 <hi>Crimen falsi,</hi> or Coun<g ref="char:EOLhyphen"/>terfeiting the Great Seal</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>II. Of the Privie Seal</hi>
+                     </cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>1 Essoyne or Protection</cell>
+                     <cell>94</cell>
+                  </row>
+                  <row>
+                     <cell>2 Money</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3 Matters of Small mo<g ref="char:EOLhyphen"/>ment</cell>
+                     <cell>95</cell>
+                  </row>
+                  <row>
+                     <cell>4 An Attorney</cell>
+                     <cell>96</cell>
+                  </row>
+                  <row>
+                     <cell>5 Peregrination</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>6 Absence from Parlia<g ref="char:EOLhyphen"/>ment</cell>
+                     <cell>97</cell>
+                  </row>
+                  <row>
+                     <cell>7 The process of the Dutchy</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>8 Summons to the Great Council</cell>
+                     <cell>98</cell>
+                  </row>
+                  <row>
+                     <cell>9 Precedency</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>10 Dutchy Lands</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>11 Sheriffs of London in Debt</cell>
+                     <cell>99</cell>
+                  </row>
+                  <pb facs="tcp:204618:70"/>
+                  <row>
+                     <cell>12 The Kings Treasure</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>III. Of the Exchequer Seal</hi>
+                     </cell>
+                     <cell>105</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>IIII. Of the Signet</hi>
+                     </cell>
+                     <cell>107</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:204618:71"/>
+            <head>
+               <hi>Books Printed for and sold by</hi> Tho. Dring <hi>at the</hi> White Lion, <hi>next</hi> Chancery Lane end, <hi>and</hi> John Leigh <hi>at the</hi> Bell <hi>in</hi> Fleet-street.</head>
+            <list>
+               <item>COllection of Law-En<g ref="char:EOLhyphen"/>tries, <hi>&amp;c.</hi> By <hi>Willi<g ref="char:EOLhyphen"/>am Rastal,</hi> Printed 1670.</item>
+               <item>All the Statutes at large to the year, 1670. By <hi>Ferdinando Pulton.</hi>
+               </item>
+               <item>
+                  <hi>Cokes</hi> Commentary on <hi>Littleton,</hi> Printed 1670. <hi>Folio.</hi>
+               </item>
+               <item>The whole Office of a Sheriff. By <hi>Mich. Dalton,</hi> with very large Additions, Printed 1670.</item>
+               <item>Tables to most of the Printed Presidents of
+<pb facs="tcp:204618:71"/> Pleadings, Writs, and Re<g ref="char:EOLhyphen"/>turn of Writs at the Com<g ref="char:EOLhyphen"/>mon Law; Collected by <hi>George Townsend.</hi> Folio,</item>
+               <item>The Law of Common Assurances, touching Deeds in General, <hi>viz.</hi> Feoffments, Gifts, Grants, Leases, with two Alpha<g ref="char:EOLhyphen"/>betical Tables. By <hi>Willi<g ref="char:EOLhyphen"/>am Sheppard,</hi> Esq; in <hi>Folio,</hi> Printed 1669. Price 14 s.</item>
+               <item>The Country Justice, containing the Practice of the Justices of the Peace, as well in as out of Sessions, <hi>&amp;c.</hi> By <hi>Michael Dalton,</hi> with Additions, Printed 1666.</item>
+               <item>Collection of all the Acts and Statutes made in the Reigns of King <hi>Charles</hi> the First, and King <hi>Charles</hi> the Second, with the A<g ref="char:EOLhyphen"/>bridgment
+<pb facs="tcp:204618:72"/> of such as stand Repeal'd or Expired, con<g ref="char:EOLhyphen"/>tinued after the Method of Mr. <hi>Pulton,</hi> with notes of Reference one to the o<g ref="char:EOLhyphen"/>ther; to which also are ad<g ref="char:EOLhyphen"/>ded the Statutes and private Acts of Parliament, passed by their said Majesties un<g ref="char:EOLhyphen"/>til the year 1667. with a Table directing to the principal matters of the said Statutes. By <hi>Tho. Manby</hi> of <hi>Lincolns Inne,</hi> Esquire.</item>
+               <item>Modern Reports. By <hi>William Stile</hi> of the <hi>Inner-Temple,</hi> Esq; <hi>Folio.</hi>
+               </item>
+               <item>Actions for Slander. By <hi>William Sheppard,</hi> Esquire, <hi>Folio.</hi>
+               </item>
+               <item>
+                  <hi>Brevia Judicialia,</hi> being a Collection of Presidents for Writs, in the Common-Pleas,
+<pb facs="tcp:204618:72"/>
+                  <hi>Folio.</hi>
+               </item>
+               <item>
+                  <hi>Thesaurus Brevium,</hi> be<g ref="char:EOLhyphen"/>ing a Collection of Presi<g ref="char:EOLhyphen"/>dents for Writs in the Kings Bench, <hi>Folio.</hi>
+               </item>
+               <item>Reports of that Lear<g ref="char:EOLhyphen"/>ned and Judicious Clerk, <hi>J. Goldsborrough,</hi> Esq; some<g ref="char:EOLhyphen"/>times one of the Prothono<g ref="char:EOLhyphen"/>taries of the Court of Com<g ref="char:EOLhyphen"/>mon-Pleas. 4<seg rend="sup">o</seg>.</item>
+               <item>
+                  <hi>Felix Consortium,</hi> or a Conjuncture of Religion and Learning; being an exact Catalogue of all the Men Famous for Religion or Learning, since the time of our Saviour; the time in which they flourished, their severall Opinions and Writings. By <hi>Edward Leigh,</hi> Master of Arts of <hi>Magdalen-Hall</hi> in <hi>Oxford.</hi> Folio.</item>
+               <pb facs="tcp:204618:73"/>
+               <item> The Innocent Lord, be<g ref="char:EOLhyphen"/>ing the incomparable Hi<g ref="char:EOLhyphen"/>story of <hi>Joseph,</hi> written originally in <hi>French,</hi> and Illustrated by the unparal<g ref="char:EOLhyphen"/>lelled pen of the Learned <hi>De Ceriziers,</hi> and rendred into <hi>English</hi> by Sir <hi>Willi<g ref="char:EOLhyphen"/>am Lowre,</hi> Knight, Octavo.</item>
+               <item>An Abridgment of all the Statutes in force and use, from <hi>Magna Char<g ref="char:EOLhyphen"/>ta</hi> till the year 1670. By <hi>Edmund Wingate</hi> of <hi>Grays-Inne,</hi> in large Octavo.</item>
+               <item>The Terms of the Law with Additions, Printed 1667. large Octavo.</item>
+               <item>
+                  <hi>Fitzherberts N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tura Brevium,</hi> Corrected and Amended, Printed 1670. large Octavo.</item>
+               <item>
+                  <hi>Littletons</hi> Tenures in
+<pb facs="tcp:204618:73"/> French and English, care<g ref="char:EOLhyphen"/>fully Corrected and A<g ref="char:EOLhyphen"/>mended, Printed 1670. in 24.</item>
+               <item>The Compleat Justice, being an exact and com<g ref="char:EOLhyphen"/>pendious collection out of such as have treated of the Office of Justice of the Peace: but principally out of Mr. <hi>Lambert,</hi> Mr. <hi>Crom<g ref="char:EOLhyphen"/>pton,</hi> and Mr. <hi>Dalton,</hi> now amplyfied and purged from sundry Errors which were in former Impressi<g ref="char:EOLhyphen"/>ons; together with the charge to be given at Quarter-Sessions, in Twelves.</item>
+               <item>Doctor and Student in English, Printed 1668.</item>
+               <item>The Lord <hi>Cokes</hi> Com<g ref="char:EOLhyphen"/>pleat Copy-holder, where<g ref="char:EOLhyphen"/>unto is added a large Trea<g ref="char:EOLhyphen"/>tise
+<pb facs="tcp:204618:74"/> by way of Supple<g ref="char:EOLhyphen"/>ment, Printed 1668.</item>
+               <item>A Philosophical Com<g ref="char:EOLhyphen"/>mentary, or an Illustrati<g ref="char:EOLhyphen"/>on of the most obvious and useful Terms in the Law. By <hi>Edw. Leigh,</hi> Gent. sometimes of the Middle-Temple.</item>
+               <item>
+                  <hi>Studii Legalis Ratio:</hi> Or, Directions for the stu<g ref="char:EOLhyphen"/>dy of the Law under these several heads, <hi>viz.</hi> The Qualifications for Study, the Nature, Means, Me<g ref="char:EOLhyphen"/>thod, Time and Place of the Study. In Twelves.</item>
+               <item>The young Clerks Com<g ref="char:EOLhyphen"/>panion, or a Manual for his daily Practice, where<g ref="char:EOLhyphen"/>in are contained the most absolute Modern Presi<g ref="char:EOLhyphen"/>dents, fitted for all occa<g ref="char:EOLhyphen"/>sions of present use, in a
+<pb facs="tcp:204618:74"/> more accurate and facile Method than ever yet was Published. In 24.</item>
+               <item>The English Rogue de<g ref="char:EOLhyphen"/>scribed in the Life of <hi>Me<g ref="char:EOLhyphen"/>reton Latroon,</hi> a Witty Ex<g ref="char:EOLhyphen"/>travagant; being a Com<g ref="char:EOLhyphen"/>pleat Discovery of the most Eminent Cheats of both Sexes. In Octavo.</item>
+               <item>The Famous Chinois, or the Loves of several of the <hi>French</hi> Nobility under borrowed names, with a Key Annexed. In Octavo.</item>
+               <item>
+                  <hi>Somes</hi> Problems. In 12.</item>
+               <item>
+                  <hi>Culpepers</hi> Essays. In 12.</item>
+               <item>Bishop <hi>Andrews</hi> of the Ceremonies of the Church, in 16.</item>
+               <item>
+                  <hi>Seldens</hi> Titles of Ho<g ref="char:EOLhyphen"/>nour, <hi>Folio.</hi>
+               </item>
+               <item>Bishop <hi>Lawd</hi> against <hi>Fisher, Folio.</hi>
+               </item>
+               <pb facs="tcp:204618:75"/>
+               <item> Lord <hi>Cokes</hi> Reports in French, <hi>Folio.</hi>
+               </item>
+               <item>Compleat Clark, in 4<seg rend="sup">o</seg>.</item>
+               <item>
+                  <hi>Fortescue de laudibus le<g ref="char:EOLhyphen"/>gum Angliae,</hi> 8<seg rend="sup">o</seg>.</item>
+               <item>
+                  <hi>Glanvil de legibus, in</hi> 8<seg rend="sup">o</seg>.</item>
+               <item>
+                  <hi>Statuta vetera, in</hi> 8<seg rend="sup">o</seg>.</item>
+               <item>View of the Law, in 8<seg rend="sup">o</seg>.</item>
+            </list>
+            <pb facs="tcp:204618:75"/>
+         </div>
+      </back>
+   </text>
+</TEI>
